@@ -1,0 +1,51 @@
+9
+0
+0
+5
+curve1_B-Field (Ms)
+Evaluate Field on Curve
+1
+1D
+2D and 3D Field Results
+P
+ED10
+1
+curve1_B-Field (Ms)
+Mix 1D
+Mix Template Results
+1
+1D
+General 1D
+P
+ED10
+1
+Mix 1D
+numerical
+0D or 1D Result from 1D Result (Rescale, Derivation, etc)
+1
+1D
+General 1D
+P
+ED10
+1
+numerical
+analytical
+0D or 1D Result from 1D Result (Rescale, Derivation, etc)
+1
+1D
+General 1D
+P
+ED10
+1
+analytical
+Mix 1D_1
+Mix Template Results
+1
+1D
+General 1D
+P
+ED10
+1
+Mix 1D_1
+1
+1:Tables\1D Results\Mix 1D

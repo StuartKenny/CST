@@ -1,0 +1,13 @@
+Algorithm: Trust Region Framework
+Number of evaluations: 5
+              (solver: 4, reloaded: 1)
+Initial goal function value = 114.504442986  (reloaded)
+Best goal function value    = 88.3462643375
+Last goal function value    = 88.3462643375
+
+Last solver evaluation time = 00:02:05 h
+
+
+Best parameters so far:
+
+ wg_l = 245.631

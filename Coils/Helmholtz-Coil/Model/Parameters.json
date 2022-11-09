@@ -1,0 +1,23 @@
+{
+    "parameters": [
+        {
+            "descr": "Coil radius",
+            "expr": "5",
+            "name": "a",
+            "value": "5"
+        },
+        {
+            "descr": "Distance of coil",
+            "expr": "a/2",
+            "name": "d",
+            "value": "2.5"
+        },
+        {
+            "descr": "Current around each coil",
+            "expr": "1",
+            "name": "I",
+            "value": "1"
+        }
+    ],
+    "version": 1
+}

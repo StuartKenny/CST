@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.7 - Jul 05 2019 - ACIS 28.0.2 -
+[Author]
+CST
+[Mesh Cells]
+40,040
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:3ghz-waveguide-1port_tuning.cst?c74f05bdbeebff02835dbe60f1b4d091?85076:numberofparameters=9:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0?port=2>mode=2>zre=0>zim=0?port=2>mode=3>zre=0>zim=0:::ant_d?ant_l?ant_r?ant_wall_l?coax_r?wg_h?wg_l?wg_w?wg_wall
+[Comment]

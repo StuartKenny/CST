@@ -1,0 +1,24 @@
+Probe2:coax
+0
+1
+Probe2:conductor
+0
+1
+Probe1:coax
+0
+1
+Probe1:conductor
+0
+1
+Waveguide:vacuum
+0
+1
+Waveguide:walls
+0
+1
+VapourCell:Vapour
+0
+1
+Waveguide:Optical path
+0
+1

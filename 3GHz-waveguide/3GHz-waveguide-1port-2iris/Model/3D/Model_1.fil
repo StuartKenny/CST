@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Filters length="1">
+    <Version>
+        <Version>2019</Version>
+        <Patch>7</Patch>
+        <State>Release</State>
+        <BuildDate>2019-07-05</BuildDate>
+        <BuildNumber>20190705</BuildNumber>
+        <BuildId>2019.7 Release from 2019-07-05 (change 706060)</BuildId>
+    </Version>
+    <Filter index="0">
+        <Units>
+            <Frequency>MHz</Frequency>
+            <Time>ns</Time>
+        </Units>
+        <Type>Diplexer</Type>
+        <JunctionType>Resonant</JunctionType>
+        <JunctionZero>
+            <Real>1.5</Real>
+        </JunctionZero>
+        <Order1>4</Order1>
+        <Order2>4</Order2>
+        <ReturnLoss1>20</ReturnLoss1>
+        <ReturnLoss2>20</ReturnLoss2>
+        <Passband1>
+            <Start>1000</Start>
+            <Stop>1040</Stop>
+        </Passband1>
+        <Passband2>
+            <Start>1060</Start>
+            <Stop>1100</Stop>
+        </Passband2>
+        <UnloadedQ>4000</UnloadedQ>
+        <Topology1 length="5">
+            <Tuplet index="0">
+                <Type>Source</Type>
+                <Size>0</Size>
+            </Tuplet>
+            <Tuplet index="1">
+                <Type>NormalLeft</Type>
+                <Size>0</Size>
+            </Tuplet>
+            <Tuplet index="2">
+                <Type>NormalLeft</Type>
+                <Size>0</Size>
+            </Tuplet>
+            <Tuplet index="3">
+                <Type>NormalLeft</Type>
+                <Size>0</Size>
+            </Tuplet>
+            <Tuplet index="4">
+                <Type>Load</Type>
+                <Size>0</Size>
+            </Tuplet>
+        </Topology1>
+        <Topology2 length="5">
+            <Tuplet index="0">
+                <Type>Source</Type>
+                <Size>0</Size>
+            </Tuplet>
+            <Tuplet index="1">
+                <Type>NormalLeft</Type>
+                <Size>0</Size>
+            </Tuplet>
+            <Tuplet index="2">
+                <Type>NormalLeft</Type>
+                <Size>0</Size>
+            </Tuplet>
+            <Tuplet index="3">
+                <Type>NormalLeft</Type>
+                <Size>0</Size>
+            </Tuplet>
+            <Tuplet index="4">
+                <Type>Load</Type>
+                <Size>0</Size>
+            </Tuplet>
+        </Topology2>
+    </Filter>
+</Filters>

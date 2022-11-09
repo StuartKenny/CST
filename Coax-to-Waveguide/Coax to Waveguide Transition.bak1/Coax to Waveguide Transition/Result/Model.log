@@ -1,0 +1,383 @@
+13/Sep/2018 14:05:33  Build version: 2019.0 Beta from 2018-09-12 (change 631617)
+
+13/Sep/2018 14:05:33  Starting adaptive port meshing.
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:05:33  Mode calculation for port 1:
+                      
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:05:35  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:05:35    ------------------------------- F-Calc 10.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      TEM         267           7.10e-006     50.2          0.0
+                        ----------------------------------------------------------------------------
+                      
+13/Sep/2018 14:05:37  Pass 1 successfully completed. 
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:05:41    ------------------------------- F-Calc 10.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      TEM         267           0.00961       50.2          0.0
+                        ----------------------------------------------------------------------------
+                      
+13/Sep/2018 14:05:41  Pass 2 successfully completed. Delta (Line Imp.): 0.03%
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:05:49    ------------------------------- F-Calc 10.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      TEM         267           7.92e-006     50.1          0.0
+                        ----------------------------------------------------------------------------
+                      
+13/Sep/2018 14:05:49  Pass 3 successfully completed. Delta (Line Imp.): 0.12%
+13/Sep/2018 14:05:49  Mode calculation for port 2:
+                      
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:05:52  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:05:52  Automatically activated electric shielding for port 2.
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:05:53    ------------------------------- F-Calc 10.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        2      1      TE          482           1.09e-005     ---           6.548
+                        ----------------------------------------------------------------------------
+                      
+13/Sep/2018 14:05:53  Pass 1 successfully completed. 
+13/Sep/2018 14:05:53  Adaptive port meshing finished. 
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:05:53  
+                      Solver started at: 02:05 PM Thursday, 13. September 2018 (W. Europe Daylight Time)
+                      
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2019.0 Beta from 2018-09-12 (change 631617)
+                      
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:05:53  ======================================================================
+                       Solver cycle: 1
+                      ======================================================================
+                      
+                      Stimulation at port 1 (mode 1) 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:05:53  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:06:13  Mesh statistics:
+                      
+                         Hexahedral mesh type: PBA [Version: default]
+                      
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 2
+                            Number of calculation domains used: 2
+                      
+                         Used point accuracy enhancement value: 75.00%.
+                         PBA fill limit: 98.81% (inverse)
+
+13/Sep/2018 14:06:14  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:06:14  Automatically activated electric shielding for port 2.
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:06:14  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: electric
+                        Xmax: electric
+                      
+                        Ymin: electric
+                        Ymax: electric
+                      
+                        Zmin: electric
+                        Zmax: electric
+                      
+                        PML-Type: ---
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:06:14  Frequency settings: 
+                      
+                        Fmin:         8.5
+                        Fmax:         12.5
+                        Nfsteps(lin): 1001
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:06:14  Waveguide boundaries:
+                      
+13/Sep/2018 14:06:14  Port: 1
+                      
+13/Sep/2018 14:06:14    ------------------------------- F-Calc 10.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      TEM         267           7.75e-006     50.1          0.0
+                        ----------------------------------------------------------------------------
+                      
+13/Sep/2018 14:06:14  Port: 2
+                      
+13/Sep/2018 14:06:14    ------------------------------- F-Calc 10.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        2      1      TE          482           1.08e-005     ---           6.548
+                        ----------------------------------------------------------------------------
+                      
+13/Sep/2018 14:06:14  Field update statistics:
+                      
+                        Number of components in total: 	692457
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:06:18  
+                      --------------------------------------------------------------------------------
+13/Sep/2018 14:06:18  Steady state energy criterion met, solver finished successfully.
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:06:18  Frequency domain results normalized to default signal.
+                      
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:06:18  
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        CAD preparation     22152                         23402056     23402056     
+                        Matrices calc.      265625                        23391601     23147460     
+                        Solver run total    68004                         23407176     23151000     
+                        ----------------------------------------------------------------------------
+                      
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+                      
+                        Hardware:
+                           Computer name:                 	LP5-ECI2-CST 
+                      
+                           Number of CPU threads:               2
+                           Hardware info:                  	Hardware Accelerator Device not activated
+                      
+                        Number of mesh cells:             	111848
+                        Excitation duration:              	1.77727437e+000 ns 
+                        Calculation time for excitation:  	5 	s
+                        Number of calculated pulse widths:	1.00085 
+                        Steady state accuracy limit:      	-60	dB 
+                        Simulated number of time steps:   	8710 
+                        Maximum number of time steps:     	174052 
+                        Time step width:
+                           without subcycles:             	2.04222560e-004 ns
+                           used:                          	2.04222560e-004 ns
+                      
+                        CAD preparation time:             	0      	s
+                        Matrix calculation time:          	19 	s
+                        Solver setup time:                	1 	s
+                        Solver loop time:                 	4 	s
+                        Solver post processing time:      	0 	s
+                                                          	------------
+                        Total solver time:                	24 	s
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:06:18  
+                        Adaptive port meshing time:          	21     	s
+                        Total solver time (all cycles):      	24     	s
+                        solver initialization and clean-up:  	1      	s
+                                                             	------------
+                        Total simulation time:               	46     	s
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:06:18  Solver finished at: 02:06 PM Thursday, 13. September 2018
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+13/Sep/2018 14:06:19  Creating parametric 1D results for Run ID 1
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:22:44  Adaptation results were found. Adaptive port meshing skipped.
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:22:44  *** Warning ***
+                      
+                      This software is licensed for educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:22:45  
+                      Solver started at: 11:22 AM Tuesday, 23. June 2020 (GMT Daylight Time)
+                      
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2019.0 Release from 2018-09-20 (change 633648)
+                      
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:22:45  ======================================================================
+                       Solver cycle: 1
+                      ======================================================================
+                      
+                      Stimulation at port 1 (mode 1) 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:22:45  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:23:07  Mesh statistics:
+                      
+                         Hexahedral mesh type: PBA [Version: default]
+                      
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 2
+                            Number of calculation domains used: 2
+                      
+                         Used point accuracy enhancement value: 75.00%.
+23/Jun/2020 11:23:00     current system memory usage reached 55%
+                         PBA fill limit: 98.81% (inverse)
+23/Jun/2020 11:22:59     current system memory usage reached 55%
+
+23/Jun/2020 11:23:08  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:23:08  Automatically activated electric shielding for port 2.
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:23:09  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: electric
+                        Xmax: electric
+                      
+                        Ymin: electric
+                        Ymax: electric
+                      
+                        Zmin: electric
+                        Zmax: electric
+                      
+                        PML-Type: ---
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:23:09  Frequency settings: 
+                      
+                        Fmin:         8.5
+                        Fmax:         12.5
+                        Nfsteps(lin): 1001
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:23:09  Waveguide boundaries:
+                      
+23/Jun/2020 11:23:09  Port: 1
+                      
+23/Jun/2020 11:23:09    ------------------------------- F-Calc 10.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      TEM         267           7.75e-006     50.1          0.0
+                        ----------------------------------------------------------------------------
+                      
+23/Jun/2020 11:23:09  Port: 2
+                      
+23/Jun/2020 11:23:09    ------------------------------- F-Calc 10.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        2      1      TE          482           1.08e-005     ---           6.548
+                        ----------------------------------------------------------------------------
+                      
+23/Jun/2020 11:23:10  Field update statistics:
+                      
+                        Number of components in total: 	692457
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:23:18  
+                      --------------------------------------------------------------------------------
+23/Jun/2020 11:23:18  Steady state energy criterion met, solver finished successfully.
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:23:18  Frequency domain results normalized to default signal.
+                      
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:23:18  
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        CAD preparation     22904                         4180244      4180244      
+                        Matrices calc.      266601                        4093750      3860351      
+                        Solver run total    68236                         4217396      3903252      
+                        ----------------------------------------------------------------------------
+                      
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+                      
+                        Hardware:
+                           Computer name:                 	elecpc375 
+                      
+                           Number of CPU threads:               2
+                           Hardware info:                  	Hardware Accelerator Device not activated
+                      
+                        Number of mesh cells:             	111848
+                        Excitation duration:              	1.77727437e+000 ns 
+                        Calculation time for excitation:  	7 	s
+                        Number of calculated pulse widths:	1.00085 
+                        Steady state accuracy limit:      	-60	dB 
+                        Simulated number of time steps:   	8710 
+                        Maximum number of time steps:     	174052 
+                        Time step width:
+                           without subcycles:             	2.04222560e-004 ns
+                           used:                          	2.04222560e-004 ns
+                      
+                        CAD preparation time:             	1      	s
+                        Matrix calculation time:          	21 	s
+                        Solver setup time:                	2 	s
+                        Solver loop time:                 	7 	s
+                        Solver post processing time:      	0 	s
+                                                          	------------
+                        Total solver time:                	31 	s
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:23:18  
+                        Adaptive port meshing time:          	0      	s
+                        Total solver time (all cycles):      	31     	s
+                        solver initialization and clean-up:  	2      	s
+                                                             	------------
+                        Total simulation time:               	33     	s
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:23:18  Solver finished at: 11:23 AM Tuesday, 23. June 2020
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+23/Jun/2020 11:23:19  Creating parametric 1D results for Run ID 1
+                      
+                      ------------------------------------------------------------------------------

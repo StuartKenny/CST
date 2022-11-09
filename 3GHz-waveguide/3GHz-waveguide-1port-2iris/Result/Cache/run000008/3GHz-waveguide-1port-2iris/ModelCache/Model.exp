@@ -1,0 +1,11 @@
+@CACHEFILEVERSION 2
+@DOUBLE
+0.5#*(wg_w^2+wg_h^2)^.5+wg_wall
+54.2704837113909
+iris_r
+18.694549995538
+plate_wall_l
+137.70768480006
+plate_wall_l+wg_wall
+140.70768480006
+@LONG

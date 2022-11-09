@@ -1,0 +1,94 @@
+29/Jun/2021 11:29:50  Magnetostatic Solver
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:50  Units settings: 
+                      
+                        Dimensions: m
+                        Frequency:  Hz
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:50  Boundary conditions: 
+                      
+                        YZsymmetry: electric
+                        XZsymmetry: electric
+                        XYsymmetry: magnetic
+                      
+                        Xmin: open
+                        Xmax: open
+                      
+                        Ymin: open
+                        Ymax: open
+                      
+                        Zmin: open
+                        Zmax: open
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:50  *** Warning ***
+                      
+                      This software is licensed for educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:50  Some objects are placed below the symmetry plane and are, therefore, not
+                      considered for meshing.
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:57  Solver started at: 11:29 AM Tuesday, 29. June 2021 (GMT Daylight Time)
+                      
+                        Module:  Magnetostatic Solver (Win 64)
+                        Version: 2019.7 Release from 2019-07-05 (change 706060)
+                      
+                        Hardware:
+                           Computer name: elecpc375
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:57  Solver order = 2
+                      
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:57  Using mesh with curved elements order: 2
+                      
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:57  Linear solver is running
+                      Desired linear accuracy = 1.0e-06, max Iter = 1200
+                      
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:58  Solver Size Statistics:
+                      
+                        Number of mesh cells:         9590 
+                        Number of unknowns:           50818
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:58  Solver Timing Statistics: (last run)
+                      
+                        Mesh generation:                  0d :  0h :  0m :  6s
+                        Assembling process:               0d :  0h :  0m :  0s
+                        Linear solver:                    0d :  0h :  0m :  0s
+                                                       --------------------------
+                        Total time:                       0d :  0h :  0m :  6s
+                      
+                        Number of threads used:           4 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:58  Linear Solver Selection: Auto
+                      
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:29:58  Memory statistics:
+                      
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        Solver start        14240                         3364772      3364672      
+                        Solver run total    140572                        3362308      3321932      
+                        ----------------------------------------------------------------------------
+                      
+                      
+                      ------------------------------------------------------------------------------
+29/Jun/2021 11:30:00  Creating parametric 1D results for Run ID 1
+                      
+                      ------------------------------------------------------------------------------

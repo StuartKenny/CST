@@ -1,0 +1,29 @@
+{
+    "parameters": [
+        {
+            "descr": "Internal radius/mm",
+            "expr": "(dia/2)-w",
+            "name": "a",
+            "value": "65"
+        },
+        {
+            "descr": "Internal depth/mm",
+            "expr": "131",
+            "name": "d",
+            "value": "131"
+        },
+        {
+            "descr": "Wall thickness/mm",
+            "expr": "1.5",
+            "name": "w",
+            "value": "1.5"
+        },
+        {
+            "descr": "Pipe external diameter/mm",
+            "expr": "133",
+            "name": "dia",
+            "value": "133"
+        }
+    ],
+    "version": 1
+}

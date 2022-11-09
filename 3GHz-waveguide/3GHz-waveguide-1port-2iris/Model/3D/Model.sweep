@@ -1,0 +1,42 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Transient",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "index": 1
+                }
+            ],
+            "Sequence 2": [
+                {
+                    "from": "30",
+                    "step width": "10",
+                    "to": "400",
+                    "type": "linear",
+                    "varname": "plate_wall_l"
+                },
+                {
+                    "index": 2
+                }
+            ],
+            "Sequence 3": [
+                {
+                    "from": "100",
+                    "step width": "10",
+                    "to": "500",
+                    "type": "linear",
+                    "varname": "wg_l"
+                },
+                {
+                    "index": 3
+                }
+            ]
+        },
+        "version": 1
+    }
+}

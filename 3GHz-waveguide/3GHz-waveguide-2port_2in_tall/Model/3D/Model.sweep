@@ -1,0 +1,49 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Transient",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "from": "200",
+                    "step width": "5",
+                    "to": "500",
+                    "type": "linear",
+                    "varname": "wg_l"
+                },
+                {
+                    "index": 1
+                }
+            ],
+            "Sequence 2": [
+                {
+                    "from": "26",
+                    "step width": ".5",
+                    "to": "30",
+                    "type": "linear",
+                    "varname": "ant_l_rx"
+                },
+                {
+                    "index": 2
+                }
+            ],
+            "Sequence 3": [
+                {
+                    "from": "26",
+                    "step width": "1",
+                    "to": "35",
+                    "type": "linear",
+                    "varname": "ant_wall_l_rx"
+                },
+                {
+                    "index": 3
+                }
+            ]
+        },
+        "version": 1
+    }
+}

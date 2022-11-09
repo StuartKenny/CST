@@ -1,0 +1,34 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "d",
+         "type": "float",
+         "value": 137.2
+      },
+      {
+         "name": "w",
+         "type": "float",
+         "value": 1.35
+      },
+      {
+         "name": "dia",
+         "type": "float",
+         "value": 67.0
+      },
+      {
+         "name": "dia_screw",
+         "type": "float",
+         "value": 36.0
+      },
+      {
+         "name": "protrusion",
+         "type": "float",
+         "value": 11.240740740741
+      }
+   ],
+   "outputVariables": []
+}

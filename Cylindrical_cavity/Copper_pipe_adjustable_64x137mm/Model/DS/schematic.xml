@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchematicTopology Version="2.3" Seed="1" Grid="25">
+    <BasePath>C:/Users/ShifT/MEGA/CST/Cylindrical_cavity/Copper_pipe_adjustable_64x137mm/Model/DS</BasePath>
+    <Block ForeignId="17055624" Id="1" Class="MWSSCHEM">
+        <Size Height="150" Width="150"/>
+        <Image Scale="AutoFit" FileName="../3D/Model.dib">
+            <Size Height="832" Width="1087"/>
+        </Image>
+        <Pos X="-22050" Y="-24150"/>
+        <ToolTip>CST MICROWAVE STUDIO schematic block MWSSCHEM1</ToolTip>
+    </Block>
+</SchematicTopology>

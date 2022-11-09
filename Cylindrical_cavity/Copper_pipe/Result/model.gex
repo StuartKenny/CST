@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaGeometryFile creator="MatrixCalc" version="20151207">
+  <Components>
+    <Component name="component1:Endcap_bottom">
+      <Shape name="Components\component1:Endcap_bottom" id="1" visible="1" material="Copper (pure)">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="1 2 3"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+    <Component name="component1:Endcap_top">
+      <Shape name="Components\component1:Endcap_top" id="2" visible="1" material="Copper (pure)">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="4 5 6"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+    <Component name="component1:InternalSpace">
+      <Shape name="Components\component1:InternalSpace" id="3" visible="1" material="Vacuum">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="7 8 9"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+    <Component name="component1:Pipe">
+      <Shape name="Components\component1:Pipe" id="4" visible="1" material="Copper (pure)">
+        <MeshGroup3D list=""/>
+        <MeshGroup0D list=""/>
+        <MeshGroup1D list=""/>
+        <MeshGroup2D>
+          <Pos list="10 11 12 13"/>
+          <Neg list=""/>
+          <DS list=""/>
+        </MeshGroup2D>
+      </Shape>
+    </Component>
+  </Components>
+  <SimulationDomain min="-33.5 -33.5 10" max="33.5 40 143.3000030518"/>
+  <Materials>
+    <Material name="air_0" priority="1">
+      <Color value="1 1 1"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+    <Material name="Copper (pure)" priority="1">
+      <Color value="1 1 1"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+    <Material name="Vacuum" priority="1">
+      <Color value="1 1 1"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+  </Materials>
+  <GeometryFile filename="3d.slm" type="slim" subdomain_id=""/>
+  <MeshType type="HEX"/>
+  <HexMesh>
+    <Dimensions nx="25" ny="27" nz="29"/>
+    <MeshPlanesX values="-33.5 -32.15 -29.22727272727 -26.30454545455 -23.38181818182 -20.45909090909 -17.53636363636 -14.61363636364 -11.69090909091 -8.768181818182 -5.845454545455 -2.922727272727 0 2.922727272727 5.845454545455 8.768181818182 11.69090909091 14.61363636364 17.53636363636 20.45909090909 23.38181818182 26.30454545455 29.22727272727 32.15 33.5"/>
+    <MeshPlanesY values="-33.5 -32.15 -29.22727272727 -26.30454545455 -23.38181818182 -20.45909090909 -17.53636363636 -14.61363636364 -11.69090909091 -8.768181818182 -5.845454545455 -2.922727272727 0 2.922727272727 5.845454545455 8.768181818182 11.69090909091 14.61363636364 17.53636363636 20.45909090909 23.38181818182 26.30454545455 29.22727272727 32.15 33.5 36.44502796516 40"/>
+    <MeshPlanesZ values="10 13.84479409205 16.92239704603 20 22.85183343554 25.91563491321 31.02066503135 36.72433190244 42.42799877352 48.1316656446 53.83533251568 59.53899938676 65.24266625784 70.94633312892 76.65 82.35366687108 88.05733374216 93.76100061324 99.46466748432 105.1683343554 110.8720012265 116.5756680976 122.2793349686 127.3843650868 130.4481665645 133.3 136.377602954 139.4552059079 143.3"/>
+  </HexMesh>
+</MetaGeometryFile>

@@ -1,0 +1,159 @@
+*** Warning ***
+
+This software is licensed for educational purposes only.
+
+--------------------------------------------------------------------------------
+Solver started at: 11:53 AM Tuesday, 03. December 2019
+
+  Module:  Eigenmodes (Win 64)
+  Version: 2016.7 Release from 2016-11-11 (change 480100)
+
+--------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+--------------------------------------------------------------------------------
+Mesh statistics:
+
+   Hexahedral mesh type: FPBA [accuracy enhancement is enabled]
+
+   Parallelization type: domain decomposition
+      Number of parallel working threads: 1
+      Number of calculation domains used: 1
+
+   PBA fill limit: 99.00% (inverse)
+
+
+--------------------------------------------------------------------------------
+Boundary conditions: 
+
+  YZsymmetry: none
+  XZsymmetry: none
+  XYsymmetry: none
+
+  Xmin: electric
+  Xmax: electric
+
+  Ymin: electric
+  Ymax: electric
+
+  Zmin: electric
+  Zmax: electric
+
+--------------------------------------------------------------------------------
+Eigenmode solver settings:
+
+  Mesh: Hexahedral
+  Method: AKS
+  Max. number of iterations: 2
+  Max. estimation iterations: 5
+  Desired accuracy: 1.000000e-012
+  Number of modes: 10
+  Consider losses: no (perturbation method)
+
+--------------------------------------------------------------------------------
+Estimation frequency: 3.96535 GHz
+
+--------------------------------------------------------------------------------
+Results after 1. iteration:
+
+  Mode	Frequency
+    1	3.0339e+000 GHz
+    2	3.0340e+000 GHz
+    3	3.5659e+000 GHz
+    4	3.7974e+000 GHz
+    5	3.7974e+000 GHz
+    6	3.8034e+000 GHz
+    7	4.0526e+000 GHz
+    8	4.4361e+000 GHz
+    9	4.7373e+000 GHz
+   10	3.3624e+001 GHz
+
+--------------------------------------------------------------------------------
+AKS Restart (1 of max. 5)
+Estimation frequency: 4.61818 GHz
+
+--------------------------------------------------------------------------------
+Results after 1. iteration:
+
+  Mode	Frequency
+    1	3.0339e+000 GHz
+    2	3.0340e+000 GHz
+    3	3.5659e+000 GHz
+    4	3.7974e+000 GHz
+    5	3.7974e+000 GHz
+    6	3.8034e+000 GHz
+    7	4.0526e+000 GHz
+    8	4.4361e+000 GHz
+    9	4.7090e+000 GHz
+   10	4.7955e+000 GHz
+
+--------------------------------------------------------------------------------
+Results after 2. iteration:
+
+  Mode	Frequency
+    1	0.0000e+000 GHz
+    2	1.5028e-003 GHz
+    3	3.0339e+000 GHz
+    4	3.0340e+000 GHz
+    5	3.5659e+000 GHz
+    6	3.7974e+000 GHz
+    7	3.7974e+000 GHz
+    8	3.8034e+000 GHz
+    9	4.4361e+000 GHz
+   10	4.7090e+000 GHz
+   11	4.7145e+000 GHz
+   12	4.7962e+000 GHz
+   13	4.8020e+000 GHz
+
+--------------------------------------------------------------------------------
+*** Warning ***
+
+The lowest Eigenmode frequency is greater than the upper frequency range limit.
+Please check the frequency range.
+
+--------------------------------------------------------------------------------
+Solver Results:
+
+--------------------------------------------------------------------------------
+Mode    Frequency             |                     Accuracy                    
+                              |     |(Ax-x)/x|       max(e)         div(e)      
+--------------------------------------------------------------------------------
+  1     3.03394048234         |      4.21e-010      1.38e-004      1.58e-007 
+  2     3.03395908069         |      1.30e-009      1.37e-004      1.56e-007 
+  3     3.56592072724         |      2.64e-011      1.08e-004      8.54e-008 
+  4     3.79737198761         |      2.89e-009      1.00e-004      1.59e-007 
+  5     3.797391335           |      1.25e-010      1.02e-004      1.57e-007 
+  6     3.80337428261         |      2.92e-010      6.94e-005      1.11e-007 
+  7     4.43613664077         |      8.13e-010      5.06e-005      1.34e-007 
+  8     4.70901127205         |      9.67e-007      9.75e-005      1.56e-007 
+  9     4.71452302249         |      1.54e-005      1.03e-003      1.58e-007 
+ 10     4.79618582914         |      1.18e-005      4.98e-004      1.63e-007 
+--------------------------------------------------------------------------------
+
+Optimum guess for the highest eigenfrequency would be: 4.79619.
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Solver Statistics:
+
+  ----------------------------------------------------------------------------
+                      Peak memory used (kB)         Free physical memory (kB) 
+                                                    At begin     Minimum      
+  ----------------------------------------------------------------------------
+  Matrices calc.      82876                         8383180      6338824      
+  Solver run total    26244                         6458340      6353480      
+
+  Computer name       PHOENIX15
+  ----------------------------------------------------------------------------
+
+  Mesh generation time     :	19 s
+  Solver time              :	2 s
+
+  Total time               :	21 s
+
+--------------------------------------------------------------------------------

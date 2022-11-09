@@ -1,0 +1,138 @@
+25/Jul/2020 11:49:26  Optimizer Settings:
+                      
+                      Optimizer type: Trust Region Framework
+                      		Type: Local linear models on primary data
+                      .		Min trust region size (in unit cube): 0.01
+                      		Sigma (measure for globalness): 0.2
+                      			Finite difference delta: 0.01
+                      			Tabu list vicinity radius: 0
+                      			Initial exploration threshold: 0
+                      		Surrogate optimization strategy: Nelder Mead Simplex Algorithm
+                      
+                      ---------------------------------------------------------------------------------------
+                      
+                      Parameters used for optimization:
+                      ---------------------------------------------------------------------------------------
+                      | name                    |          min |          max |      initial |
+                      ---------------------------------------------------------------------------------------
+                      | wg_l                    |          330 |          400 |          365 |
+                      ---------------------------------------------------------------------------------------
+                      
+                      Goal functionals used for optimization:
+                      
+                      1DC: 1D Results\S-Parameters\S1,1: minimize in range: 3.04, weighted: 1.0
+                      1DC: 1D Results\S-Parameters\S2,1: maximize in range: 3.04, weighted: 1.0
+25/Jul/2020 11:49:26  
+                      ________________________________________________________________________
+                      
+                      The optimization process is trying to import data of previous calculations. Please make sure that the solver's settings for the existing results agree with the ones stored in the tables.
+
+25/Jul/2020 11:49:26  
+                      ________________________________________________________________________
+25/Jul/2020 11:49:26  
+                      Recovered data from previous calculations for parameters:
+
+25/Jul/2020 11:49:26  	wg_l = 365 
+25/Jul/2020 11:49:26  
+                      (Corresponding to run ID: 2)
+25/Jul/2020 11:49:26  
+25/Jul/2020 11:49:26  	Initial goal function value  = 115.589 (Solver)
+25/Jul/2020 11:49:26  	Best goal function value   = 115.589 (Solver)
+25/Jul/2020 11:49:26  	Last goal function value   = 115.589 (Solver)
+25/Jul/2020 11:54:39  
+                      ________________________________________________________________________
+25/Jul/2020 11:54:39  
+                      Solved problem for parameters:
+
+25/Jul/2020 11:54:39  	wg_l = 365.7 
+25/Jul/2020 11:54:39  
+25/Jul/2020 11:54:39  	Initial goal function value  = 115.589 (Solver)
+25/Jul/2020 11:54:39  	Best goal function value   = 115.589 (Solver)
+25/Jul/2020 11:54:39  	Last goal function value   = 116.732 (Solver)
+25/Jul/2020 11:54:39  	Solver time = 00:05:10 h
+25/Jul/2020 11:54:39  	Parameter update time   = 00:00:03 h
+25/Jul/2020 11:54:39  
+                      ________________________________________________________________________
+                      
+                      Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 109.089 (current anchor: 115.589)
+                      The distance from the current anchor (in the Unit Cube) to the prediction is: 0.0698833
+
+
+25/Jul/2020 11:58:11  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+25/Jul/2020 11:58:19  
+                      ________________________________________________________________________
+25/Jul/2020 11:58:19  
+                      Solved problem for parameters:
+
+25/Jul/2020 11:58:19  	wg_l = 360.108 
+25/Jul/2020 11:58:19  
+25/Jul/2020 11:58:19  
+                      Created complete backup of the project. (7.094 sec)
+
+25/Jul/2020 11:58:19  	Initial goal function value  = 115.589 (Solver)
+25/Jul/2020 11:58:19  	Best goal function value   = 88.9834 (Solver)
+25/Jul/2020 11:58:19  	Last goal function value   = 88.9834 (Solver)
+25/Jul/2020 11:58:19  	Solver time = 00:03:30 h
+25/Jul/2020 11:58:19  	Parameter update time   = 00:00:02 h
+25/Jul/2020 12:01:16  
+                      ________________________________________________________________________
+25/Jul/2020 12:01:16  
+                      Solved problem for parameters:
+
+25/Jul/2020 12:01:16  	wg_l = 360.808 
+25/Jul/2020 12:01:16  
+25/Jul/2020 12:01:16  	Initial goal function value  = 115.589 (Solver)
+25/Jul/2020 12:01:16  	Best goal function value   = 88.9834 (Solver)
+25/Jul/2020 12:01:16  	Last goal function value   = 99.9692 (Solver)
+25/Jul/2020 12:01:16  	Solver time = 00:02:55 h
+25/Jul/2020 12:01:16  	Parameter update time   = 00:00:02 h
+25/Jul/2020 12:01:16  
+                      ________________________________________________________________________
+                      
+                      Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 88.3968 (current anchor: 88.9834)
+                      The distance from the current anchor (in the Unit Cube) to the prediction is: 0.00116626
+
+
+25/Jul/2020 12:03:27  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+25/Jul/2020 12:03:30  
+                      ________________________________________________________________________
+25/Jul/2020 12:03:30  
+                      Solved problem for parameters:
+
+25/Jul/2020 12:03:30  	wg_l = 360.027 
+25/Jul/2020 12:03:30  
+25/Jul/2020 12:03:30  
+                      Created complete backup of the project. (3.563 sec)
+
+25/Jul/2020 12:03:30  	Initial goal function value  = 115.589 (Solver)
+25/Jul/2020 12:03:30  	Best goal function value   = 88.7601 (Solver)
+25/Jul/2020 12:03:30  	Last goal function value   = 88.7601 (Solver)
+25/Jul/2020 12:03:30  	Solver time = 00:02:08 h
+25/Jul/2020 12:03:30  	Parameter update time   = 00:00:03 h
+25/Jul/2020 12:03:30  
+                      ________________________________________________________________________
+
+
+25/Jul/2020 12:03:30  	Total solver time           = 00:13:43 h (4 solver runs)
+25/Jul/2020 12:03:30  	Total data recovery time    = 00:00:00 h (1 loaded)
+25/Jul/2020 12:03:30  	Total backup project time   = 00:00:11 h (2 backups)
+25/Jul/2020 12:03:30  	Total parameter update time = 00:00:10 h
+25/Jul/2020 12:03:30  	Total optimizer time        = 00:14:04 h (5 evaluations)
+
+25/Jul/2020 12:03:30  
+                      ________________________________________________________________________
+                      
+                      Optimization successfully improved the goal value. Best parameter set is stored.
+

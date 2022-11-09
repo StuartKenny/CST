@@ -1,0 +1,65 @@
+{
+    "parameters": [
+        {
+            "descr": "internal length of waveguide",
+            "expr": "441.73811523237",
+            "name": "wg_l",
+            "value": "441.73811523237"
+        },
+        {
+            "descr": "internal width of waveguide",
+            "expr": "95.2",
+            "name": "wg_w",
+            "value": "95.2"
+        },
+        {
+            "descr": "internal height of waveguide",
+            "expr": "44.8",
+            "name": "wg_h",
+            "value": "44.8"
+        },
+        {
+            "descr": "waveguide wall thickness",
+            "expr": "3",
+            "name": "wg_wall",
+            "value": "3"
+        },
+        {
+            "descr": "length of tx antenna",
+            "expr": "26",
+            "name": "ant_l_tx",
+            "value": "26"
+        },
+        {
+            "descr": "radius of antennae",
+            "expr": "1.27/2",
+            "name": "ant_r",
+            "value": "0.635"
+        },
+        {
+            "descr": "radius of coaxial cable",
+            "expr": "4.115/2",
+            "name": "coax_r",
+            "value": "2.0575"
+        },
+        {
+            "descr": "distance from centre of tx antenna to endwall",
+            "expr": "32.7",
+            "name": "ant_wall_l_tx",
+            "value": "32.7"
+        },
+        {
+            "descr": "length of rx antenna",
+            "expr": "31.759942980933",
+            "name": "ant_l_rx",
+            "value": "31.759942980933"
+        },
+        {
+            "descr": "distance from centre of rx antenna to endwall",
+            "expr": "31.846742008558",
+            "name": "ant_wall_l_rx",
+            "value": "31.846742008558"
+        }
+    ],
+    "version": 1
+}

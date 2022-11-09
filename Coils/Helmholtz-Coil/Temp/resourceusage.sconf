@@ -1,0 +1,15 @@
+FeatureKeywords:string:modeler:load:fullloading, meshloading:problem_class_only, DELETERESULTS:0SP0, mesh:workflow:boolean, mesh:workflow:boolean:advanced, mesh:lib:blsurf, mesh:lib:ghs3d, background:normal, boundary:electric:xmin, boundary:electric:ymin, boundary:magnetic:zmin, boundary:open:ConvPML, boundary:open:xmax, boundary:open:ymax, boundary:open:zmax, boundary:symmetry plane:electric:xmin, boundary:symmetry plane:electric:ymin, boundary:symmetry plane:magnetic:zmin, mesh:tet, solver:lf:m-static, source:current path, units:Capacitance:pF, units:Conductance:S, units:Current:A, units:Frequency:Hz, units:Inductance:nH, units:Length:m, units:Resistance:Ohm, units:Temperature:Kelvin, units:Time:s, units:Voltage:V, la:direct, mf:nonlinear:linear, la:precond:pdss5, visualization:field_plot:default_engine, postprocess:evaluate field:curve, DELETERESULTS:M000, mesh::background::boolean, modeler:load:fastloading
+LastWorkflowState:string:tetmesh:success
+solver_pp/InitialFreePhysicalInMB:int:3310
+solver_pp/MaxResidentSizeInMB:int:22
+solver_pp/MaxResidentSizeMiB:int:5
+solver_pp/MinFreePhysicalInMB:int:3302
+solver_sh_tet/InitialFreePhysicalInMB:int:3446
+solver_sh_tet/MaxResidentSizeInMB:int:144
+solver_sh_tet/MaxResidentSizeMiB:int:124
+solver_sh_tet/MinFreePhysicalInMB:int:3407
+tetmesh/InitialFreePhysicalInMB:int:3424
+tetmesh/MaxResidentSizeInMB:int:40
+tetmesh/MaxResidentSizeMiB:int:21
+tetmesh/MinFreePhysicalInMB:int:3411
+---

@@ -1,0 +1,47 @@
+{
+    "parameters": [
+        {
+            "descr": "radius of stub 1 and stub 2",
+            "expr": "0.9",
+            "name": "rStubs",
+            "value": "0.9"
+        },
+        {
+            "descr": "radius of coax",
+            "expr": "4.115/2",
+            "name": "rCoax",
+            "value": "2.0575"
+        },
+        {
+            "descr": "height of stub 2",
+            "expr": "1.2",
+            "name": "hStub2",
+            "value": "1.2"
+        },
+        {
+            "descr": "height difference of stub 1 and stub 2",
+            "expr": "1.7",
+            "name": "hStub1",
+            "value": "1.7"
+        },
+        {
+            "descr": "distance from stub 1 to stub 2",
+            "expr": "4.35",
+            "name": "dStub1Stub2",
+            "value": "4.35"
+        },
+        {
+            "descr": "distance from coax to stub 1",
+            "expr": "0.15",
+            "name": "dCoaxStub1",
+            "value": "0.15"
+        },
+        {
+            "descr": "distance from border to coax",
+            "expr": "3.835",
+            "name": "dCoaxBorder",
+            "value": "3.835"
+        }
+    ],
+    "version": 1
+}

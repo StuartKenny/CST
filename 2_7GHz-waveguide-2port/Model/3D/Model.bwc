@@ -1,0 +1,226 @@
+2800 0 13 0           
+13 CST_HEXMESHER 14 ACIS 28.0.2 NT 24 Fri Oct 16 19:59:06 2020 
+1 9.9999999999999995e-07 1e-10 
+T @77 X6DJC4M3MKCH_R65XJDR9347U5TMQC67HAPBN8N8FB54MZ7BU8Q3RP64BCUUEANWPCQ3RE54BB54F 
+face $13 -1 -1 $-1 $-1 $14 $-1 $-1 $15 reversed single F F #
+face $16 -1 -1 $-1 $-1 $17 $-1 $-1 $18 reversed single F F #
+edge $19 -1 -1 $-1 $20 -11.43 $21 11.43 $-1 $22 forward @7 unknown F #
+face $23 -1 -1 $-1 $-1 $24 $-1 $-1 $25 forward single F F #
+face $26 -1 -1 $-1 $-1 $27 $-1 $-1 $28 forward single F F #
+face $29 -1 -1 $-1 $-1 $30 $-1 $-1 $31 forward single F F #
+edge $32 -1 -1 $-1 $33 -3.1415926535897931 $33 3.1415926535897931 $-1 $34 forward @7 unknown F #
+face $35 -1 -1 $-1 $-1 $36 $-1 $-1 $37 forward single F F #
+face $38 -1 -1 $-1 $-1 $39 $-1 $-1 $40 forward single F F #
+face $41 -1 -1 $-1 $-1 $42 $-1 $-1 $43 forward single F F #
+face $44 -1 -1 $-1 $-1 $45 $-1 $-1 $46 forward single F F #
+face $47 -1 -1 $-1 $-1 $48 $-1 $-1 $49 forward single F F #
+face $50 -1 -1 $-1 $-1 $51 $-1 $-1 $52 forward single F F #
+named_attribute-st-attrib $-1 -1 $53 $-1 $0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 nVacuum:solid1 #
+loop $-1 -1 -1 $-1 $-1 $54 $0 F unknown #
+plane-surface $-1 -1 -1 $-1 11.43 10.16 12.5 0 -1 0 0 0 -1 forward_v I I I I #
+named_attribute-st-attrib $-1 -1 $55 $-1 $1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 nVacuum:solid1 #
+loop $-1 -1 -1 $-1 $-1 $56 $1 F unknown #
+plane-surface $-1 -1 -1 $-1 11.43 10.16 12.5 0 -1 0 0 0 -1 forward_v I I I I #
+named_attribute-st-attrib $-1 -1 $57 $-1 $2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 nVacuum:solid1 #
+vertex $-1 -1 -1 $-1 $2 $58 #
+vertex $-1 -1 -1 $-1 $2 $59 #
+straight-curve $-1 -1 -1 $-1 11.43 10.16 0 1 0 0 I I #
+named_attribute-st-attrib $-1 -1 $60 $-1 $3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 nCoax:coax #
+loop $-1 -1 -1 $-1 $-1 $61 $3 F unknown #
+plane-surface $-1 -1 -1 $-1 12.45875 14.16 5.8925000000000001 0 1 0 1 0 0 forward_v I I I I #
+named_attribute-st-attrib $-1 -1 $62 $-1 $4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 nCoax:coax #
+loop $-1 -1 -1 $-1 $-1 $63 $4 F unknown #
+plane-surface $-1 -1 -1 $-1 12.45875 6.9100000000000001 5.8925000000000001 0 -1 0 -1 -0 0 forward_v I I I I #
+named_attribute-st-attrib $-1 -1 $64 $-1 $5 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @11 nPEC:solid3 #
+loop $-1 -1 -1 $-1 $-1 $65 $5 F unknown #
+plane-surface $-1 -1 -1 $-1 11.7475 6.9100000000000001 5.8925000000000001 0 -1 0 -1 -0 0 forward_v I I I I #
+named_attribute-st-attrib $-1 -1 $66 $-1 $6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 nVacuum:solid1 #
+vertex $-1 -1 -1 $-1 $6 $67 #
+ellipse-curve $-1 -1 -1 $-1 11.43 10.16 5.8925000000000001 0 -1 0 2.0575000000000001 0 0 1 I I #
+named_attribute-st-attrib $-1 -1 $68 $-1 $7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @10 nCoax:coax #
+loop $-1 -1 -1 $-1 $-1 $69 $7 F unknown #
+plane-surface $-1 -1 -1 $-1 12.45875 14.16 5.8925000000000001 0 1 0 1 0 0 forward_v I I I I #
+named_attribute-st-attrib $-1 -1 $70 $-1 $8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 nVacuum:solid1 #
+loop $-1 -1 -1 $-1 $-1 $71 $8 F unknown #
+plane-surface $-1 -1 -1 $-1 11.43 5.0800000000000001 25 0 0 1 1 0 0 forward_v I I I I #
+named_attribute-st-attrib $-1 -1 $72 $-1 $9 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 nProbe1:coax #
+loop $-1 -1 -1 $-1 $73 $74 $9 F unknown #
+plane-surface $-1 -1 -1 $-1 42.93 25 15.15 0 1 0 1 0 0 forward_v I I I I #
+named_attribute-st-attrib $-1 -1 $75 $-1 $10 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 nProbe2:coax #
+loop $-1 -1 -1 $-1 $-1 $76 $10 F unknown #
+plane-surface $-1 -1 -1 $-1 152.40000000000001 30.600000000000001 0 0 1 0 1 0 0 forward_v I I I I #
+named_attribute-st-attrib $-1 -1 $77 $-1 $11 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 nProbe1:coax #
+loop $-1 -1 -1 $-1 $78 $79 $11 F unknown #
+plane-surface $-1 -1 -1 $-1 31.5 30.600000000000001 0 0 1 0 1 0 0 forward_v I I I I #
+named_attribute-st-attrib $-1 -1 $80 $-1 $12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 nProbe2:coax #
+loop $-1 -1 -1 $-1 $81 $82 $12 F unknown #
+plane-surface $-1 -1 -1 $-1 152.40000000000001 30.600000000000001 0 0 1 0 1 0 0 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $83 $13 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $84 $85 $-1 $86 forward $14 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $87 $16 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $88 $89 $-1 $90 forward $17 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $91 $19 $2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+point $-1 -1 -1 $-1 0 10.16 0 #
+point $-1 -1 -1 $-1 22.859999999999999 10.16 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $92 $23 $3 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $61 $61 $-1 $93 forward $24 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $94 $26 $4 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $63 $63 $-1 $95 reversed $27 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $96 $29 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $65 $65 $-1 $97 reversed $30 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $98 $32 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+point $-1 -1 -1 $-1 9.3724999999999987 10.16 5.8925000000000001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $99 $35 $7 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $69 $69 $-1 $100 forward $36 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $101 $38 $8 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $102 $103 $-1 $104 forward $39 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $105 $41 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+loop $-1 -1 -1 $-1 $-1 $106 $9 F unknown #
+coedge $-1 -1 -1 $-1 $74 $74 $-1 $107 forward $42 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $108 $44 $10 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $76 $76 $-1 $109 forward $45 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $110 $47 $11 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+loop $-1 -1 -1 $-1 $-1 $111 $11 F unknown #
+coedge $-1 -1 -1 $-1 $79 $79 $-1 $112 forward $48 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $113 $50 $12 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+loop $-1 -1 -1 $-1 $-1 $114 $12 F unknown #
+coedge $-1 -1 -1 $-1 $82 $82 $-1 $115 forward $51 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $116 $53 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 4 #
+coedge $-1 -1 -1 $-1 $117 $54 $-1 $118 reversed $14 $-1 #
+coedge $-1 -1 -1 $-1 $54 $117 $-1 $119 reversed $14 $-1 #
+edge $-1 -1 -1 $-1 $120 -12.5 $121 12.5 $54 $122 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $123 $55 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 5 #
+coedge $-1 -1 -1 $-1 $124 $56 $-1 $125 reversed $17 $-1 #
+coedge $-1 -1 -1 $-1 $56 $124 $-1 $126 reversed $17 $-1 #
+edge $-1 -1 -1 $-1 $127 -12.5 $128 12.5 $56 $129 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $130 $57 $2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 6 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $131 $60 $3 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 12 #
+edge $-1 -1 -1 $-1 $132 0 $132 6.2831853071795862 $61 $133 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $134 $62 $4 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 14 #
+edge $-1 -1 -1 $-1 $135 0 $135 6.2831853071795862 $63 $136 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $137 $64 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 16 #
+edge $-1 -1 -1 $-1 $138 0 $138 6.2831853071795862 $65 $139 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $140 $66 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 20 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $141 $68 $7 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 28 #
+edge $-1 -1 -1 $-1 $142 0 $142 6.2831853071795862 $69 $143 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $144 $70 $8 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 30 #
+coedge $-1 -1 -1 $-1 $145 $71 $-1 $146 forward $39 $-1 #
+coedge $-1 -1 -1 $-1 $71 $145 $-1 $147 forward $39 $-1 #
+edge $-1 -1 -1 $-1 $148 -5.0800000000000001 $149 5.0800000000000001 $71 $150 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $151 $72 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 95 #
+coedge $-1 -1 -1 $-1 $106 $106 $-1 $152 forward $73 $-1 #
+edge $-1 -1 -1 $-1 $153 -3.1415926535897931 $153 3.1415926535897931 $74 $154 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $155 $75 $10 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 111 #
+edge $-1 -1 -1 $-1 $156 0 $156 6.2831853071795862 $76 $157 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $158 $77 $11 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 152 #
+coedge $-1 -1 -1 $-1 $111 $111 $-1 $159 forward $78 $-1 #
+edge $-1 -1 -1 $-1 $160 0 $160 6.2831853071795862 $79 $161 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $162 $80 $12 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 154 #
+coedge $-1 -1 -1 $-1 $114 $114 $-1 $163 forward $81 $-1 #
+edge $-1 -1 -1 $-1 $164 0 $164 6.2831853071795862 $82 $165 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $166 $83 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 5 #
+coedge $-1 -1 -1 $-1 $85 $84 $-1 $167 reversed $14 $-1 #
+edge $-1 -1 -1 $-1 $168 -11.43 $121 11.43 $84 $169 forward @7 unknown F #
+edge $-1 -1 -1 $-1 $120 -11.43 $170 11.43 $85 $171 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $86 $172 #
+vertex $-1 -1 -1 $-1 $86 $173 #
+straight-curve $-1 -1 -1 $-1 22.859999999999999 10.16 12.5 0 0 -1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $174 $87 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 5 #
+coedge $-1 -1 -1 $-1 $89 $88 $-1 $175 reversed $17 $-1 #
+edge $-1 -1 -1 $-1 $176 -11.43 $128 11.43 $88 $177 forward @7 unknown F #
+edge $-1 -1 -1 $-1 $127 -11.43 $178 11.43 $89 $179 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $90 $180 #
+vertex $-1 -1 -1 $-1 $90 $181 #
+straight-curve $-1 -1 -1 $-1 22.859999999999999 10.16 12.5 0 0 -1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $91 $2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 8 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $92 $3 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 3 #
+vertex $-1 -1 -1 $-1 $93 $182 #
+ellipse-curve $-1 -1 -1 $-1 11.43 14.16 5.8925000000000001 0 1 0 2.0575000000000001 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $94 $4 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 1 #
+vertex $-1 -1 -1 $-1 $95 $183 #
+ellipse-curve $-1 -1 -1 $-1 11.43 6.9100000000000001 5.8925000000000001 0 1 0 2.0575000000000001 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $96 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 1 #
+vertex $-1 -1 -1 $-1 $97 $184 #
+ellipse-curve $-1 -1 -1 $-1 11.43 6.9100000000000001 5.8925000000000001 0 1 0 0.63500000000000001 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $98 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 15 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $185 $99 $7 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 3 #
+vertex $-1 -1 -1 $-1 $100 $186 #
+ellipse-curve $-1 -1 -1 $-1 11.43 14.16 5.8925000000000001 0 1 0 2.0575000000000001 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $187 $101 $8 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 4 #
+coedge $-1 -1 -1 $-1 $103 $102 $-1 $188 forward $39 $-1 #
+edge $-1 -1 -1 $-1 $149 -11.43 $189 11.43 $102 $190 forward @7 unknown F #
+edge $-1 -1 -1 $-1 $191 -11.43 $148 11.43 $103 $192 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $104 $193 #
+vertex $-1 -1 -1 $-1 $104 $194 #
+straight-curve $-1 -1 -1 $-1 22.859999999999999 5.0800000000000001 25 0 1 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $195 $105 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 6 #
+edge $-1 -1 -1 $-1 $196 0 $196 6.2831853071795862 $106 $197 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $107 $198 #
+ellipse-curve $-1 -1 -1 $-1 42.93 25 15.15 -0 -1 -0 0.63500000000000001 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $199 $108 $10 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 3 #
+vertex $-1 -1 -1 $-1 $109 $200 #
+ellipse-curve $-1 -1 -1 $-1 152.40000000000001 30.600000000000001 0 0 1 0 2.0575000000000001 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $201 $110 $11 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 6 #
+edge $-1 -1 -1 $-1 $202 0 $202 6.2831853071795862 $111 $203 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $112 $204 #
+ellipse-curve $-1 -1 -1 $-1 31.5 30.600000000000001 0 -0 -1 -0 0.63500000000000001 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $205 $113 $12 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 6 #
+edge $-1 -1 -1 $-1 $206 0 $206 6.2831853071795862 $114 $207 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $115 $208 #
+ellipse-curve $-1 -1 -1 $-1 152.40000000000001 30.600000000000001 0 -0 -1 -0 0.63500000000000001 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $116 $0 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+edge $-1 -1 -1 $-1 $170 -12.5 $168 12.5 $117 $209 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $118 $210 #
+straight-curve $-1 -1 -1 $-1 11.43 10.16 0 1 0 0 I I #
+vertex $-1 -1 -1 $-1 $119 $211 #
+straight-curve $-1 -1 -1 $-1 11.43 10.16 25 -1 0 0 I I #
+point $-1 -1 -1 $-1 22.859999999999999 10.16 25 #
+point $-1 -1 -1 $-1 22.859999999999999 10.16 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $123 $1 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+edge $-1 -1 -1 $-1 $178 -12.5 $176 12.5 $124 $212 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $125 $213 #
+straight-curve $-1 -1 -1 $-1 11.43 10.16 0 1 0 0 I I #
+vertex $-1 -1 -1 $-1 $126 $214 #
+straight-curve $-1 -1 -1 $-1 11.43 10.16 25 -1 0 0 I I #
+point $-1 -1 -1 $-1 22.859999999999999 10.16 25 #
+point $-1 -1 -1 $-1 22.859999999999999 10.16 0 #
+point $-1 -1 -1 $-1 13.487500000000001 14.16 5.8925000000000001 #
+point $-1 -1 -1 $-1 13.487500000000001 6.9100000000000001 5.8925000000000001 #
+point $-1 -1 -1 $-1 12.065 6.9100000000000001 5.8925000000000001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $141 $7 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+point $-1 -1 -1 $-1 13.487500000000001 14.16 5.8925000000000001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $144 $8 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+edge $-1 -1 -1 $-1 $189 -5.0800000000000001 $191 5.0800000000000001 $145 $215 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $146 $216 #
+straight-curve $-1 -1 -1 $-1 11.43 10.16 25 -1 0 0 I I #
+vertex $-1 -1 -1 $-1 $188 $217 #
+straight-curve $-1 -1 -1 $-1 11.43 0 25 1 0 0 I I #
+point $-1 -1 -1 $-1 22.859999999999999 0 25 #
+point $-1 -1 -1 $-1 22.859999999999999 10.16 25 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $151 $9 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+vertex $-1 -1 -1 $-1 $152 $218 #
+ellipse-curve $-1 -1 -1 $-1 42.93 25 15.15 0 1 0 2.0575000000000001 0 0 1 I I #
+point $-1 -1 -1 $-1 42.295000000000002 25 15.15 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $155 $10 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+point $-1 -1 -1 $-1 154.45750000000001 30.600000000000001 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $158 $11 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+vertex $-1 -1 -1 $-1 $159 $219 #
+ellipse-curve $-1 -1 -1 $-1 31.5 30.600000000000001 0 0 1 0 2.0575000000000001 0 0 1 I I #
+point $-1 -1 -1 $-1 32.134999999999998 30.600000000000001 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $162 $12 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+vertex $-1 -1 -1 $-1 $163 $220 #
+ellipse-curve $-1 -1 -1 $-1 152.40000000000001 30.600000000000001 0 0 1 0 2.0575000000000001 0 0 1 I I #
+point $-1 -1 -1 $-1 153.035 30.600000000000001 0 #
+straight-curve $-1 -1 -1 $-1 0 10.16 12.5 0 0 -1 I I #
+point $-1 -1 -1 $-1 0 10.16 0 #
+point $-1 -1 -1 $-1 0 10.16 25 #
+straight-curve $-1 -1 -1 $-1 0 10.16 12.5 0 0 -1 I I #
+point $-1 -1 -1 $-1 0 10.16 0 #
+point $-1 -1 -1 $-1 0 10.16 25 #
+straight-curve $-1 -1 -1 $-1 0 5.0800000000000001 25 0 -1 0 I I #
+point $-1 -1 -1 $-1 0 10.16 25 #
+point $-1 -1 -1 $-1 0 0 25 #
+point $-1 -1 -1 $-1 44.987499999999997 25 15.15 #
+point $-1 -1 -1 $-1 33.557499999999997 30.600000000000001 0 #
+point $-1 -1 -1 $-1 154.45750000000001 30.600000000000001 0 #
+End-of-ACIS-data 

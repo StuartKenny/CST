@@ -1,0 +1,410 @@
+14/Jul/2020 15:06:34  *** Warning ***
+                      
+                      This software is licensed for educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:06:48  *** Warning ***
+                      
+                      This software is licensed for educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:06:48  
+                      Solver started at: 03:06 PM Tuesday, 14. July 2020 (GMT Daylight Time)
+                      
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2019.7 Release from 2019-07-05 (change 706060)
+                      
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:06:48  ======================================================================
+                       Solver cycle: 1
+                      ======================================================================
+                      
+                      Stimulation at port 1 (mode 1) 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:06:48  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:07:43  Mesh statistics:
+                      
+                         Hexahedral mesh type: PBA [Version: default]
+                      
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 2
+                            Number of calculation domains used: 4
+                      
+                         Used point accuracy enhancement value: 75.00%.
+                         PBA fill limit: 99.00% (inverse)
+02/Jul/2020 09:01:56     current system memory usage reached 50%
+02/Jul/2020 09:01:57     current system memory usage reached 50%
+02/Jul/2020 09:03:05     current system memory usage reached 50%
+02/Jul/2020 09:03:04     current system memory usage reached 50%
+02/Jul/2020 09:04:14     current system memory usage reached 50%
+02/Jul/2020 09:06:36     current system memory usage reached 50%
+02/Jul/2020 09:07:43     current system memory usage reached 50%
+02/Jul/2020 09:11:12     current system memory usage reached 50%
+02/Jul/2020 09:11:13     current system memory usage reached 50%
+02/Jul/2020 09:12:26     current system memory usage reached 50%
+02/Jul/2020 09:12:25     current system memory usage reached 50%
+02/Jul/2020 09:13:29     current system memory usage reached 50%
+02/Jul/2020 09:13:28     current system memory usage reached 50%
+02/Jul/2020 09:14:35     current system memory usage reached 50%
+02/Jul/2020 09:14:34     current system memory usage reached 50%
+02/Jul/2020 09:15:41     current system memory usage reached 50%
+02/Jul/2020 09:16:50     current system memory usage reached 50%
+02/Jul/2020 09:16:49     current system memory usage reached 50%
+02/Jul/2020 09:17:58     current system memory usage reached 50%
+02/Jul/2020 09:17:57     current system memory usage reached 50%
+02/Jul/2020 09:19:05     current system memory usage reached 50%
+02/Jul/2020 09:20:13     current system memory usage reached 50%
+02/Jul/2020 09:32:01     current system memory usage reached 50%
+09/Jul/2020 14:54:15     current system memory usage reached 65%
+                         Used point accuracy enhancement value: 0.00%.
+                         PBA fill limit: 96.01% (inverse)
+13/Jul/2020 11:53:23     current system memory usage reached 65%
+13/Jul/2020 11:53:58     current system memory usage reached 65%
+13/Jul/2020 11:53:24     current system memory usage reached 65%
+                         PBA fill limit: 96.20% (inverse)
+13/Jul/2020 13:52:43     current system memory usage reached 60%
+13/Jul/2020 13:57:54     current system memory usage reached 60%
+13/Jul/2020 13:57:53     current system memory usage reached 60%
+13/Jul/2020 14:02:57     current system memory usage reached 60%
+13/Jul/2020 14:08:06     current system memory usage reached 60%
+13/Jul/2020 14:13:14     current system memory usage reached 60%
+13/Jul/2020 14:13:15     current system memory usage reached 60%
+13/Jul/2020 14:18:27     current system memory usage reached 60%
+13/Jul/2020 14:18:26     current system memory usage reached 60%
+                         PBA fill limit: 95.83% (inverse)
+13/Jul/2020 14:28:31     current system memory usage reached 60%
+13/Jul/2020 14:28:30     current system memory usage reached 60%
+13/Jul/2020 14:33:41     current system memory usage reached 60%
+13/Jul/2020 14:38:45     current system memory usage reached 60%
+13/Jul/2020 14:43:50     current system memory usage reached 60%
+13/Jul/2020 15:10:08     current system memory usage reached 65%
+13/Jul/2020 15:09:57     current system memory usage reached 65%
+13/Jul/2020 15:10:01     current system memory usage reached 65%
+13/Jul/2020 15:14:57     current system memory usage reached 65%
+13/Jul/2020 15:15:17     current system memory usage reached 70%
+13/Jul/2020 15:14:56     current system memory usage reached 65%
+13/Jul/2020 15:22:00     current system memory usage reached 65%
+13/Jul/2020 15:27:19     current system memory usage reached 65%
+13/Jul/2020 15:27:06     current system memory usage reached 65%
+13/Jul/2020 15:27:12     current system memory usage reached 65%
+13/Jul/2020 15:32:18     current system memory usage reached 65%
+13/Jul/2020 15:37:35     current system memory usage reached 65%
+13/Jul/2020 15:37:23     current system memory usage reached 65%
+13/Jul/2020 15:37:29     current system memory usage reached 65%
+13/Jul/2020 15:42:43     current system memory usage reached 65%
+13/Jul/2020 15:42:44     current system memory usage reached 65%
+13/Jul/2020 15:47:31     current system memory usage reached 60%
+13/Jul/2020 15:58:00     current system memory usage reached 60%
+13/Jul/2020 15:57:59     current system memory usage reached 60%
+13/Jul/2020 16:03:13     current system memory usage reached 60%
+13/Jul/2020 16:08:22     current system memory usage reached 60%
+13/Jul/2020 16:08:23     current system memory usage reached 60%
+13/Jul/2020 16:13:37     current system memory usage reached 60%
+                         PBA fill limit: 96.39% (inverse)
+13/Jul/2020 16:18:59     current system memory usage reached 60%
+13/Jul/2020 16:20:37     current system memory usage reached 60%
+13/Jul/2020 16:20:36     current system memory usage reached 60%
+13/Jul/2020 16:22:51     current system memory usage reached 60%
+13/Jul/2020 16:28:06     current system memory usage reached 60%
+13/Jul/2020 16:38:42     current system memory usage reached 60%
+13/Jul/2020 16:43:57     current system memory usage reached 60%
+13/Jul/2020 16:54:27     current system memory usage reached 60%
+13/Jul/2020 16:59:40     current system memory usage reached 60%
+13/Jul/2020 17:04:55     current system memory usage reached 60%
+13/Jul/2020 17:10:13     current system memory usage reached 60%
+13/Jul/2020 17:15:28     current system memory usage reached 60%
+13/Jul/2020 17:15:29     current system memory usage reached 60%
+13/Jul/2020 17:20:42     current system memory usage reached 60%
+13/Jul/2020 17:25:58     current system memory usage reached 60%
+13/Jul/2020 17:31:13     current system memory usage reached 60%
+13/Jul/2020 17:36:27     current system memory usage reached 60%
+13/Jul/2020 17:36:26     current system memory usage reached 60%
+13/Jul/2020 17:41:43     current system memory usage reached 60%
+13/Jul/2020 17:46:54     current system memory usage reached 60%
+13/Jul/2020 17:46:53     current system memory usage reached 60%
+13/Jul/2020 17:52:07     current system memory usage reached 60%
+13/Jul/2020 17:52:06     current system memory usage reached 60%
+13/Jul/2020 17:57:21     current system memory usage reached 60%
+13/Jul/2020 17:57:20     current system memory usage reached 60%
+13/Jul/2020 18:02:31     current system memory usage reached 60%
+13/Jul/2020 18:07:44     current system memory usage reached 60%
+13/Jul/2020 18:07:45     current system memory usage reached 60%
+13/Jul/2020 18:12:59     current system memory usage reached 60%
+13/Jul/2020 18:18:12     current system memory usage reached 60%
+13/Jul/2020 18:23:27     current system memory usage reached 60%
+13/Jul/2020 18:28:38     current system memory usage reached 60%
+13/Jul/2020 18:28:39     current system memory usage reached 60%
+13/Jul/2020 18:33:52     current system memory usage reached 60%
+13/Jul/2020 18:39:36     current system memory usage reached 65%
+13/Jul/2020 18:39:33     current system memory usage reached 65%
+13/Jul/2020 18:44:55     current system memory usage reached 65%
+13/Jul/2020 18:49:51     current system memory usage reached 65%
+13/Jul/2020 18:49:44     current system memory usage reached 65%
+13/Jul/2020 18:49:57     current system memory usage reached 65%
+13/Jul/2020 18:55:20     current system memory usage reached 65%
+13/Jul/2020 18:55:12     current system memory usage reached 65%
+13/Jul/2020 19:00:27     current system memory usage reached 65%
+13/Jul/2020 19:00:09     current system memory usage reached 65%
+13/Jul/2020 19:00:22     current system memory usage reached 65%
+13/Jul/2020 19:05:31     current system memory usage reached 65%
+13/Jul/2020 19:05:24     current system memory usage reached 65%
+13/Jul/2020 19:05:36     current system memory usage reached 65%
+13/Jul/2020 19:10:48     current system memory usage reached 65%
+13/Jul/2020 19:10:40     current system memory usage reached 65%
+13/Jul/2020 19:10:33     current system memory usage reached 65%
+13/Jul/2020 19:16:01     current system memory usage reached 65%
+13/Jul/2020 19:15:44     current system memory usage reached 65%
+13/Jul/2020 19:21:15     current system memory usage reached 65%
+13/Jul/2020 19:21:06     current system memory usage reached 65%
+13/Jul/2020 19:21:34     current system memory usage reached 65%
+13/Jul/2020 19:20:59     current system memory usage reached 65%
+                         Used point accuracy enhancement value: 51.00%.
+                         PBA fill limit: 98.81% (inverse)
+                         Used point accuracy enhancement value: 32.00%.
+                         PBA fill limit: 98.63% (inverse)
+                         Used point accuracy enhancement value: 29.00%.
+                         Used point accuracy enhancement value: 27.00%.
+                         PBA fill limit: 98.44% (inverse)
+13/Jul/2020 19:37:19     current system memory usage reached 65%
+                         Used point accuracy enhancement value: 24.00%.
+                         Used point accuracy enhancement value: 21.00%.
+13/Jul/2020 19:44:35     current system memory usage reached 65%
+                         Used point accuracy enhancement value: 19.00%.
+                         Used point accuracy enhancement value: 14.00%.
+13/Jul/2020 19:53:02     current system memory usage reached 65%
+                         PBA fill limit: 98.25% (inverse)
+                         Used point accuracy enhancement value: 12.00%.
+13/Jul/2020 19:56:50     current system memory usage reached 65%
+13/Jul/2020 19:56:57     current system memory usage reached 65%
+                         Used point accuracy enhancement value: 10.00%.
+                         Used point accuracy enhancement value: 8.00%.
+                         Used point accuracy enhancement value: 7.00%.
+                         PBA fill limit: 98.07% (inverse)
+                         Used point accuracy enhancement value: 5.00%.
+                         Used point accuracy enhancement value: 4.00%.
+                         Used point accuracy enhancement value: 2.00%.
+13/Jul/2020 20:20:39     current system memory usage reached 65%
+                         PBA fill limit: 97.88% (inverse)
+                         Used point accuracy enhancement value: 1.00%.
+                         PBA fill limit: 97.69% (inverse)
+13/Jul/2020 20:42:41     current system memory usage reached 65%
+13/Jul/2020 20:42:27     current system memory usage reached 65%
+13/Jul/2020 20:42:35     current system memory usage reached 65%
+13/Jul/2020 20:46:35     current system memory usage reached 65%
+                         PBA fill limit: 97.51% (inverse)
+13/Jul/2020 20:46:25     current system memory usage reached 65%
+13/Jul/2020 20:46:38     current system memory usage reached 65%
+13/Jul/2020 20:50:46     current system memory usage reached 65%
+13/Jul/2020 20:50:36     current system memory usage reached 65%
+13/Jul/2020 20:55:02     current system memory usage reached 65%
+                         PBA fill limit: 97.32% (inverse)
+13/Jul/2020 20:54:53     current system memory usage reached 65%
+13/Jul/2020 20:59:31     current system memory usage reached 65%
+13/Jul/2020 20:59:16     current system memory usage reached 65%
+13/Jul/2020 20:59:34     current system memory usage reached 65%
+13/Jul/2020 21:03:55     current system memory usage reached 65%
+13/Jul/2020 21:03:46     current system memory usage reached 65%
+13/Jul/2020 21:03:39     current system memory usage reached 65%
+13/Jul/2020 21:08:26     current system memory usage reached 65%
+                         PBA fill limit: 97.13% (inverse)
+13/Jul/2020 21:08:07     current system memory usage reached 65%
+13/Jul/2020 21:08:06     current system memory usage reached 65%
+13/Jul/2020 21:13:01     current system memory usage reached 65%
+13/Jul/2020 21:12:50     current system memory usage reached 65%
+13/Jul/2020 21:12:44     current system memory usage reached 65%
+13/Jul/2020 21:17:36     current system memory usage reached 65%
+                         PBA fill limit: 96.95% (inverse)
+13/Jul/2020 21:17:30     current system memory usage reached 65%
+13/Jul/2020 21:22:14     current system memory usage reached 65%
+13/Jul/2020 21:22:03     current system memory usage reached 65%
+13/Jul/2020 21:22:07     current system memory usage reached 65%
+                         PBA fill limit: 96.76% (inverse)
+                         PBA fill limit: 96.57% (inverse)
+13/Jul/2020 21:38:55     current system memory usage reached 65%
+13/Jul/2020 21:38:56     current system memory usage reached 65%
+13/Jul/2020 21:44:29     current system memory usage reached 65%
+13/Jul/2020 21:44:03     current system memory usage reached 65%
+13/Jul/2020 21:54:41     current system memory usage reached 65%
+13/Jul/2020 21:54:34     current system memory usage reached 65%
+13/Jul/2020 22:04:58     current system memory usage reached 65%
+13/Jul/2020 22:10:10     current system memory usage reached 65%
+13/Jul/2020 22:10:15     current system memory usage reached 65%
+13/Jul/2020 22:15:32     current system memory usage reached 65%
+13/Jul/2020 22:15:38     current system memory usage reached 65%
+13/Jul/2020 22:20:57     current system memory usage reached 65%
+13/Jul/2020 22:21:02     current system memory usage reached 65%
+14/Jul/2020 13:42:08     current system memory usage reached 65%
+14/Jul/2020 13:41:42     current system memory usage reached 65%
+14/Jul/2020 13:41:43     current system memory usage reached 65%
+14/Jul/2020 13:47:04     current system memory usage reached 65%
+14/Jul/2020 13:47:41     current system memory usage reached 65%
+14/Jul/2020 13:52:59     current system memory usage reached 65%
+14/Jul/2020 13:57:48     current system memory usage reached 60%
+                         PBA fill limit: 95.45% (inverse)
+14/Jul/2020 14:03:36     current system memory usage reached 60%
+14/Jul/2020 14:04:04     current system memory usage reached 60%
+14/Jul/2020 14:14:41     current system memory usage reached 60%
+14/Jul/2020 14:14:42     current system memory usage reached 60%
+14/Jul/2020 14:15:09     current system memory usage reached 60%
+14/Jul/2020 14:19:45     current system memory usage reached 60%
+                         PBA fill limit: 95.27% (inverse)
+14/Jul/2020 14:19:57     current system memory usage reached 60%
+14/Jul/2020 14:35:32     current system memory usage reached 60%
+14/Jul/2020 14:35:58     current system memory usage reached 60%
+14/Jul/2020 14:40:49     current system memory usage reached 60%
+14/Jul/2020 14:41:16     current system memory usage reached 60%
+14/Jul/2020 14:41:11     current system memory usage reached 60%
+14/Jul/2020 14:46:00     current system memory usage reached 60%
+14/Jul/2020 14:45:59     current system memory usage reached 60%
+14/Jul/2020 14:46:27     current system memory usage reached 60%
+14/Jul/2020 14:51:17     current system memory usage reached 60%
+14/Jul/2020 14:51:16     current system memory usage reached 60%
+14/Jul/2020 14:51:42     current system memory usage reached 60%
+14/Jul/2020 14:56:27     current system memory usage reached 60%
+14/Jul/2020 15:01:40     current system memory usage reached 60%
+14/Jul/2020 15:06:50     current system memory usage reached 60%
+14/Jul/2020 15:06:49     current system memory usage reached 60%
+
+14/Jul/2020 15:07:45  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:07:45  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: electric
+                        Xmax: electric
+                      
+                        Ymin: electric
+                        Ymax: electric
+                      
+                        Zmin: electric
+                        Zmax: electric
+                      
+                        PML-Type: ---
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:07:45  Frequency settings: 
+                      
+                        Fmin:         1
+                        Fmax:         3.4
+                        Nfsteps(lin): 1001
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:07:45  Waveguide boundaries:
+                      
+14/Jul/2020 15:07:45  Port: 1
+                      
+14/Jul/2020 15:07:45    -------------------------------- F-Calc 2.2 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      TM          2.96e+003     0.869         ---           25.79
+                        ----------------------------------------------------------------------------
+                      
+14/Jul/2020 15:07:45  Port: 2
+                      
+14/Jul/2020 15:07:46    -------------------------------- F-Calc 2.2 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        2      1      TE          539           1.04e-005     ---           1.574
+                        2      2      TE          368           7.35e-006     ---           3.148
+                        2      3      TE          254           3.95e-006     ---           3.932
+                        ----------------------------------------------------------------------------
+                      
+14/Jul/2020 15:07:46  *** Warning ***
+                      
+14/Jul/2020 15:07:46  The following port mode is excited below its cutoff frequency: 1(1). 
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:07:46  Field update statistics:
+                      
+                        Number of components in total: 	2282071
+                        Number of TST elements:		56
+                        Number of lossy metal components:	67443
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:11:36  
+                      --------------------------------------------------------------------------------
+14/Jul/2020 15:11:36  *** Warning ***
+                      
+14/Jul/2020 15:11:36  Maximum number of pulse widths simulated, solver stopped.
+                      Please note that the steady state energy criterion has not been satisfied. More...
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:11:36  Frequency domain results normalized to default signal.
+                      
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:11:36  
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        Matrices calc.      378906                        4507812      2858398      
+                        Solver run total    211184                        3620728      3247280      
+                        ----------------------------------------------------------------------------
+                      
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+                      
+                        Hardware:
+                           Computer name:                 	elecpc375 
+                      
+                           Number of CPU threads:               2
+                           Hardware info:                  	Hardware Accelerator Device not activated
+                      
+                        Number of mesh cells:             	372504
+                        Excitation duration:              	2.96212396e+000 ns 
+                        Calculation time for excitation:  	11 	s
+                        Number of calculated pulse widths:	19.9997 
+                        Steady state accuracy limit:      	-25	dB 
+                        Simulated number of time steps:   	51349 
+                        Maximum number of time steps:     	51349 
+                        Time step width:
+                           without subcycles:             	1.15370702e-003 ns
+                           used:                          	1.15370702e-003 ns
+                      
+                        Matrix calculation time:          	55 	s
+                        Solver setup time:                	4 	s
+                        Solver loop time:                 	227 	s
+                        Solver post processing time:      	1 	s
+                                                          	------------
+                        Total solver time:                	287 	s  ( = 0 h, 4 m, 47 s )
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:11:36  
+                        Adaptive port meshing time:          	13     	s
+                        Total solver time (all cycles):      	287    	s  ( = 0 h, 4 m, 47 s )
+                        solver initialization and clean-up:  	1      	s
+                                                             	------------
+                        Total simulation time:               	301    	s  ( = 0 h, 5 m, 1 s )
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:11:37  Solver finished at: 03:11 PM Tuesday, 14. July 2020
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 15:11:38  Parametric 1D storage is switched off.
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 18:12:48  Waiting for frontend license...
+                      
+                      ------------------------------------------------------------------------------
+14/Jul/2020 19:15:53  Frontend license successfully retrieved.
+                      
+                      ------------------------------------------------------------------------------

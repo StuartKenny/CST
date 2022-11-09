@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchematicTopology Version="2.3" Seed="1" Grid="25">
+    <BasePath>C:/SK_MEGA/CST/Coils/Helmholtz-Coil/Model/DS</BasePath>
+    <Block ForeignId="87154920" Id="1" Class="EMSSCHEM">
+        <Size Height="375" Width="300"/>
+        <Pins>
+            <Pin X="-150" Y="-112" Index="0" BlockPosition="Left">
+                <Label>current:path2</Label>
+            </Pin>
+            <Pin X="-150" Y="38" Index="2" BlockPosition="Left">
+                <Label>current:path1</Label>
+            </Pin>
+            <Pin X="-150" Y="-37" Index="1" BlockPosition="Left">
+                <Label>current:path2'</Label>
+            </Pin>
+            <Pin X="-150" Y="113" Index="3" BlockPosition="Left">
+                <Label>current:path1'</Label>
+            </Pin>
+        </Pins>
+        <Image Scale="AutoFit" FileName="../3D/Model.dib">
+            <Size Height="392" Width="512"/>
+        </Image>
+        <Pos X="150" Y="187"/>
+        <ToolTip>CST EM STUDIO schematic block EMSSCHEM1</ToolTip>
+    </Block>
+</SchematicTopology>

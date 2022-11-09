@@ -1,0 +1,71 @@
+{
+    "parameters": [
+        {
+            "descr": "internal length of waveguide",
+            "expr": "531.94379516152",
+            "name": "wg_l",
+            "value": "531.94379516152"
+        },
+        {
+            "descr": "internal width of waveguide",
+            "expr": "95.2",
+            "name": "wg_w",
+            "value": "95.2"
+        },
+        {
+            "descr": "internal height of waveguide",
+            "expr": "38.1",
+            "name": "wg_h",
+            "value": "38.1"
+        },
+        {
+            "descr": "waveguide wall thickness",
+            "expr": "3",
+            "name": "wg_wall",
+            "value": "3"
+        },
+        {
+            "descr": "length of antennae",
+            "expr": "28.875",
+            "name": "ant_l",
+            "value": "28.875"
+        },
+        {
+            "descr": "radius of antennae",
+            "expr": "0.635",
+            "name": "ant_r",
+            "value": "0.635"
+        },
+        {
+            "descr": "radius of coaxial cable",
+            "expr": "2.0575",
+            "name": "coax_r",
+            "value": "2.0575"
+        },
+        {
+            "descr": "distance from centre of antenna to endwall",
+            "expr": "29.076057154865",
+            "name": "ant_wall_l",
+            "value": "29.076057154865"
+        },
+        {
+            "descr": "distance from endwall to first plate",
+            "expr": "149.51598368978",
+            "name": "plate_wall_l",
+            "value": "149.51598368978"
+        },
+        {
+            "descr": "distance between plates",
+            "expr": "115.5/2",
+            "name": "plate_spacing",
+            "value": "57.75"
+        },
+        {
+            "descr": "aperture size: 0 full closed, 1 fully open",
+            "expr": ".5",
+            "name": "aperture",
+            "value": ".5"
+        }
+    ],
+    "version": 1
+}

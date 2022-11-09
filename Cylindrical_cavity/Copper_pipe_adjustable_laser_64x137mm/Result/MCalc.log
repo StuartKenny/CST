@@ -1,0 +1,625 @@
+======================================================
+ - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+ - desired group         : 0, sockets = 0
+ - num cores available   : 8
+ - num accessible procs  : 8
+ - num logical procs     : 8
+ - affinity (main thread): 1111 1111 
+ - sockets               : 0
+ - potential cores       : 0,2,4,6
+ - affinity              : 1111
+ - active cores          : 0,2,4,6
+ - hyperthreading        : on
+ - allowed socket ids    : 0
+ - allowed core ids      : 0,2,4,6
+ - used mask (string)    : 1010 1010 
+======================================================
+
+========================================================================
+Processing CAD model (for field results)
+	[Improved internal geometry representation]
+	[Accuracy improvement for long shapes in inhomogeneous mesh regions]
+Version 2019.7 (build 20190705)
+PBA version 2009023008
+2020 Aug 14 (Fri): 20:41:02
+========================================================================
+
+===========================================
+Finished CAD processing (for field results)
+===========================================
+
+========================================================================
+Processing CAD model
+	[Improved internal geometry representation]
+	[Accuracy improvement for long shapes in inhomogeneous mesh regions]
+Version 2019.7 (build 20190705)
+PBA version 2009023008
+2020 Aug 14 (Fri): 20:41:03
+========================================================================
+
+----------------------------------------------
+Used point accuracy enhancement value: 75.00%.
+----------------------------------------------
+
+=============================================================================
+Mesh statistics:
+-----------------------------------------------------------------------------
+Minimum edge length (x): 1 @ mesh line 57 (x)
+Maximum edge length (x): 2.38 @ mesh line 14 (x)
+Minimum face area (x): 1.17 @ mesh lines 63 | 66 (y | z)
+Maximum face area (x): 6.04 @ mesh lines 21 | 0 (y | z)
+Minimum edge length (y): 1 @ mesh line 63 (y)
+Maximum edge length (y): 2.41 @ mesh line 21 (y)
+Minimum face area (y): 1.17 @ mesh lines 66 | 57 (z | x)
+Maximum face area (y): 5.97 @ mesh lines 0 | 14 (z | x)
+Minimum edge length (z): 1.17 @ mesh line 66 (z)
+Maximum edge length (z): 2.51 @ mesh line 0 (z)
+Minimum face area (z): 1 @ mesh lines 57 | 63 (x | y)
+Maximum face area (z): 5.73 @ mesh lines 14 | 21 (x | y)
+Maximum mesh face aspect ratio (x): 2.51 : 1.0  @ mesh lines 63 | 0 (y | z)
+Maximum mesh face aspect ratio (y): 2.51 : 1.0  @ mesh lines 0 | 57 (z | x)
+Maximum mesh face aspect ratio (z): 2.41 : 1.0  @ mesh lines 57 | 21 (x | y)
+=============================================================================
+
+============================================================================
+Available resources to store TST cells: 2146748671 (292084.19% of mesh size)
+============================================================================
+
+==================================================================================================
+== CST Matrix Calculation Priority Log                                                          ==
+==================================================================================================
+ 
+Priorities are sorted in ascending order beginning with the lowest priority
+ 
+Priority:   1, shape   3: Resonator:InternalSpace, material: Vacuum, float:   0.00e+00, wire: false, sheet: false, human: false, PEC: false, SI: false, face port:   0, feature ID:      -1
+Priority:   2, shape   5: Resonator:Screw, material: Copper (pure), float:   0.00e+00, wire: false, sheet: false, human: false, PEC:  true, SI:  true, face port:   0, feature ID:      -1
+Priority:   2, shape   4: Resonator:Pipe, material: Copper (pure), float:   0.00e+00, wire: false, sheet: false, human: false, PEC:  true, SI:  true, face port:   0, feature ID:      -1
+Priority:   2, shape   2: Resonator:Endcap_top, material: Copper (pure), float:   0.00e+00, wire: false, sheet: false, human: false, PEC:  true, SI:  true, face port:   0, feature ID:      -1
+Priority:   2, shape   1: Resonator:Endcap_bottom, material: Copper (pure), float:   0.00e+00, wire: false, sheet: false, human: false, PEC:  true, SI:  true, face port:   0, feature ID:      -1
+ 
+==================================================================================================
+ 
+====================================================
+PBA version: legacy
+Geo accuracy: 75.000000
+PEC background is represented by CAD geometry: false
+Watertightness check: true
+Self intersection check: false
+Inheritance (all): true
+Normal dominance (all): false
+Normal dominance (ports): false
+Flanges hollow: true
+One shape per flange: false
+====================================================
+=======================
+Finished CAD processing
+=======================
+
+------------------------------------------------------------
+Parallelization Info
+------------------------------------------------------------
+Number of concurrent threads: 4
+Number of node domains: 8
+Number of mesh fill domains: 36
+Memory downscale: 1
+CPU load: 100.00%
+Emptiness: 0.00%
+Hex mesh complexity: 0.71
+Geometric complexity: 0.00
+------------------------------------------------------------
+Node order
+7, 6, 4, 5, 2, 0, 3, 1
+------------------------------------------------------------
+
+------------------------------------
+Mesh: # of points excl. TSTs: 734976
+      # of points incl. TSTs: 734976
+------------------------------------
+
+1xN000:  <<<<<<<<<<<<<<<<<<<<<<<<
+         2020 Aug14 (Fri): 204135
+         <<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN000:  ======================================================
+          - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+          - desired group         : 0, sockets = 0
+          - num cores available   : 8
+          - num accessible procs  : 8
+          - num logical procs     : 8
+          - affinity (main thread): 1111 1111
+          - sockets               : 0
+          - potential cores       : 0,2,4,6
+          - affinity              : 1111
+          - active cores          : 0,2,4,6
+          - hyperthreading        : on
+          - allowed socket ids    : 0
+          - allowed core ids      : 0,2,4,6
+          - used mask (string)    : 1010 1010
+
+         ======================================================
+
+1xN000:  ===============================
+         Matrix computation (PBA)
+         	[PBA version: legacy]
+         Version 2019.7 (build 20190705)
+         PBA version 2009023008
+         2020 Aug 14 (Fri): 20:41:35
+         ===============================
+
+1xN000:  Shapes are ordered to support shape wise matrix storage
+1xN000:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN000:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 88.17% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 88.17
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN000:  =================================
+         Finished matrix computation (PBA)
+         =================================
+
+1xN000:  >>>>>>>>>>>>>>>>>>>>>>>>
+         2020 Aug14 (Fri): 204152
+         >>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN001:  <<<<<<<<<<<<<<<<<<<<<<<<
+         2020 Aug14 (Fri): 204157
+         <<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN001:  ======================================================
+          - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+          - desired group         : 0, sockets = 0
+          - num cores available   : 8
+          - num accessible procs  : 8
+          - num logical procs     : 8
+          - affinity (main thread): 1111 1111
+          - sockets               : 0
+          - potential cores       : 0,2,4,6
+          - affinity              : 1111
+          - active cores          : 0,2,4,6
+          - hyperthreading        : on
+          - allowed socket ids    : 0
+          - allowed core ids      : 0,2,4,6
+          - used mask (string)    : 1010 1010
+
+         ======================================================
+
+1xN001:  ===============================
+         Matrix computation (PBA)
+         	[PBA version: legacy]
+         Version 2019.7 (build 20190705)
+         PBA version 2009023008
+         2020 Aug 14 (Fri): 20:41:57
+         ===============================
+
+1xN001:  Shapes are ordered to support shape wise matrix storage
+1xN001:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN001:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 88.17% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 88.17
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN001:  =================================
+         Finished matrix computation (PBA)
+         =================================
+
+1xN001:  >>>>>>>>>>>>>>>>>>>>>>>>
+         2020 Aug14 (Fri): 204210
+         >>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN002:  <<<<<<<<<<<<<<<<<<<<<<<<
+         2020 Aug14 (Fri): 204133
+         <<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN002:  ======================================================
+          - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+          - desired group         : 0, sockets = 0
+          - num cores available   : 8
+          - num accessible procs  : 8
+          - num logical procs     : 8
+          - affinity (main thread): 1111 1111
+          - sockets               : 0
+          - potential cores       : 0,2,4,6
+          - affinity              : 1111
+          - active cores          : 0,2,4,6
+          - hyperthreading        : on
+          - allowed socket ids    : 0
+          - allowed core ids      : 0,2,4,6
+          - used mask (string)    : 1010 1010
+
+         ======================================================
+
+1xN002:  ===============================
+         Matrix computation (PBA)
+         	[PBA version: legacy]
+         Version 2019.7 (build 20190705)
+         PBA version 2009023008
+         2020 Aug 14 (Fri): 20:41:33
+         ===============================
+
+1xN002:  Shapes are ordered to support shape wise matrix storage
+1xN002:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN002:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 88.17% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 88.17
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN002:  =================================
+         Finished matrix computation (PBA)
+         =================================
+
+1xN002:  >>>>>>>>>>>>>>>>>>>>>>>>
+         2020 Aug14 (Fri): 2042         >>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN003:  <<<<<<<<<<<<<<<<<<<<<<<<
+         2020 Aug14 (Fri): 204153
+         <<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN003:  ======================================================
+          - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+          - desired group         : 0, sockets = 0
+          - num cores available   : 8
+          - num accessible procs  : 8
+          - num logical procs     : 8
+          - affinity (main thread): 1111 1111
+          - sockets               : 0
+          - potential cores       : 0,2,4,6
+          - affinity              : 1111
+          - active cores          : 0,2,4,6
+          - hyperthreading        : on
+          - allowed socket ids    : 0
+          - allowed core ids      : 0,2,4,6
+          - used mask (string)    : 1010 1010
+
+         ======================================================
+
+1xN003:  ===============================
+         Matrix computation (PBA)
+         	[PBA version: legacy]
+         Version 2019.7 (build 20190705)
+         PBA version 2009023008
+         2020 Aug 14 (Fri): 20:41:53
+         ===============================
+
+1xN003:  Shapes are ordered to support shape wise matrix storage
+1xN003:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN003:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 88.17% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 88.17
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN003:  =================================
+         Finished matrix computation (PBA)
+         =================================
+
+1xN003:  >>>>>>>>>>>>>>>>>>>>>>>>
+         2020 Aug14 (Fri): 204213
+         >>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN004:  <<<<<<<<<<<<<<<<<<<<<<<<
+         2020 Aug14 (Fri): 2041         <<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN004:  ======================================================
+          - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+          - desired group         : 0, sockets = 0
+          - num cores available   : 8
+          - num accessible procs  : 8
+          - num logical procs     : 8
+          - affinity (main thread): 1111 1111
+          - sockets               : 0
+          - potential cores       : 0,2,4,6
+          - affinity              : 1111
+          - active cores          : 0,2,4,6
+          - hyperthreading        : on
+          - allowed socket ids    : 0
+          - allowed core ids      : 0,2,4,6
+          - used mask (string)    : 1010 1010
+
+         ======================================================
+
+1xN004:  ===============================
+         Matrix computation (PBA)
+         	[PBA version: legacy]
+         Version 2019.7 (build 20190705)
+         PBA version 2009023008
+         2020 Aug 14 (Fri): 20:41:04
+         ===============================
+
+1xN004:  Shapes are ordered to support shape wise matrix storage
+1xN004:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN004:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 88.17% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 88.17
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN004:  =================================
+         Finished matrix computation (PBA)
+         =================================
+
+1xN004:  >>>>>>>>>>>>>>>>>>>>>>>>
+         2020 Aug14 (Fri): 204134
+         >>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN005:  <<<<<<<<<<<<<<<<<<<<<<<<
+         2020 Aug14 (Fri): 2041         <<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN005:  ======================================================
+          - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+          - desired group         : 0, sockets = 0
+          - num cores available   : 8
+          - num accessible procs  : 8
+          - num logical procs     : 8
+          - affinity (main thread): 1111 1111
+          - sockets               : 0
+          - potential cores       : 0,2,4,6
+          - affinity              : 1111
+          - active cores          : 0,2,4,6
+          - hyperthreading        : on
+          - allowed socket ids    : 0
+          - allowed core ids      : 0,2,4,6
+          - used mask (string)    : 1010 1010
+
+         ======================================================
+
+1xN005:  ===============================
+         Matrix computation (PBA)
+         	[PBA version: legacy]
+         Version 2019.7 (build 20190705)
+         PBA version 2009023008
+         2020 Aug 14 (Fri): 20:41:04
+         ===============================
+
+1xN005:  Shapes are ordered to support shape wise matrix storage
+1xN005:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN005:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 88.17% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 88.17
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN005:  =================================
+         Finished matrix computation (PBA)
+         =================================
+
+1xN005:  >>>>>>>>>>>>>>>>>>>>>>>>
+         2020 Aug14 (Fri): 204133
+         >>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN006:  <<<<<<<<<<<<<<<<<<<<<<<<
+         2020 Aug14 (Fri): 2041         <<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN006:  ======================================================
+          - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+          - desired group         : 0, sockets = 0
+          - num cores available   : 8
+          - num accessible procs  : 8
+          - num logical procs     : 8
+          - affinity (main thread): 1111 1111
+          - sockets               : 0
+          - potential cores       : 0,2,4,6
+          - affinity              : 1111
+          - active cores          : 0,2,4,6
+          - hyperthreading        : on
+          - allowed socket ids    : 0
+          - allowed core ids      : 0,2,4,6
+          - used mask (string)    : 1010 1010
+
+         ======================================================
+
+1xN006:  ===============================
+         Matrix computation (PBA)
+         	[PBA version: legacy]
+         Version 2019.7 (build 20190705)
+         PBA version 2009023008
+         2020 Aug 14 (Fri): 20:41:04
+         ===============================
+
+1xN006:  Shapes are ordered to support shape wise matrix storage
+1xN006:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN006:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 88.17% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 88.17
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN006:  =================================
+         Finished matrix computation (PBA)
+         =================================
+
+1xN006:  >>>>>>>>>>>>>>>>>>>>>>>>
+         2020 Aug14 (Fri): 204156
+         >>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN007:  <<<<<<<<<<<<<<<<<<<<<<<<
+         2020 Aug14 (Fri): 2041         <<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN007:  ======================================================
+          - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+          - desired group         : 0, sockets = 0
+          - num cores available   : 8
+          - num accessible procs  : 8
+          - num logical procs     : 8
+          - affinity (main thread): 1111 1111
+          - sockets               : 0
+          - potential cores       : 0,2,4,6
+          - affinity              : 1111
+          - active cores          : 0,2,4,6
+          - hyperthreading        : on
+          - allowed socket ids    : 0
+          - allowed core ids      : 0,2,4,6
+          - used mask (string)    : 1010 1010
+
+         ======================================================
+
+1xN007:  ===============================
+         Matrix computation (PBA)
+         	[PBA version: legacy]
+         Version 2019.7 (build 20190705)
+         PBA version 2009023008
+         2020 Aug 14 (Fri): 20:41:04
+         ===============================
+
+1xN007:  Shapes are ordered to support shape wise matrix storage
+1xN007:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN007:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 88.17% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 88.17
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN007:  =================================
+         Finished matrix computation (PBA)
+         =================================
+
+1xN007:  >>>>>>>>>>>>>>>>>>>>>>>>
+         2020 Aug14 (Fri): 204158
+         >>>>>>>>>>>>>>>>>>>>>>>>
+
+
+

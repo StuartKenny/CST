@@ -1,0 +1,472 @@
+16/Jul/2020 10:49:31  Optimizer Settings:
+                      
+                      Optimizer type: Trust Region Framework
+                      		Type: Local linear models on primary data
+                      .		Min trust region size (in unit cube): 0.01
+                      		Sigma (measure for globalness): 0.2
+                      			Finite difference delta: 0.01
+                      			Tabu list vicinity radius: 0
+                      			Initial exploration threshold: 0
+                      		Surrogate optimization strategy: Nelder Mead Simplex Algorithm
+                      
+                      ---------------------------------------------------------------------------------------
+                      
+                      Parameters used for optimization:
+                      ---------------------------------------------------------------------------------------
+                      | name                    |          min |          max |      initial |
+                      ---------------------------------------------------------------------------------------
+                      | ant_wall_l              |            2 |           50 |       28.875 |
+                      | iris_r                  |            0 |        19.05 |      18.6945 |
+                      | plate_spacing           |           50 |          400 |        115.5 |
+                      | plate_wall_l            |           40 |          350 |      137.708 |
+                      | wg_l                    |          100 |          700 |      549.999 |
+                      ---------------------------------------------------------------------------------------
+                      
+                      Goal functionals used for optimization:
+                      
+                      1DC: 1D Results\S-Parameters\S1(1),1(1): minimize in range: 3.04, weighted: 1.0
+                      1DC: 1D Results\S-Parameters\S2(1),1(1): maximize in range: 3.04, weighted: 1.0
+16/Jul/2020 10:55:24  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+16/Jul/2020 10:55:28  
+                      ________________________________________________________________________
+16/Jul/2020 10:55:28  
+                      Solved problem for parameters:
+
+16/Jul/2020 10:55:28  	ant_wall_l = 28.875 
+16/Jul/2020 10:55:28  	iris_r = 18.6945 
+16/Jul/2020 10:55:28  	plate_spacing = 115.5 
+16/Jul/2020 10:55:28  	plate_wall_l = 137.708 
+16/Jul/2020 10:55:28  	wg_l = 549.999 
+16/Jul/2020 10:55:28  
+                      (Corresponding to run ID: 1)
+16/Jul/2020 10:55:28  
+16/Jul/2020 10:55:28  
+                      Created complete backup of the project. (3.812 sec)
+
+16/Jul/2020 10:55:28  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 10:55:28  	Best goal function value   = 128.961 (Solver)
+16/Jul/2020 10:55:28  	Last goal function value   = 128.961 (Solver)
+16/Jul/2020 10:55:28  	Solver time = 00:05:50 h
+16/Jul/2020 10:55:28  	Parameter update time   = 00:00:03 h
+16/Jul/2020 11:01:20  
+                      ________________________________________________________________________
+16/Jul/2020 11:01:20  
+                      Solved problem for parameters:
+
+16/Jul/2020 11:01:20  	ant_wall_l = 29.355 
+16/Jul/2020 11:01:20  	iris_r = 18.6945 
+16/Jul/2020 11:01:20  	plate_spacing = 115.5 
+16/Jul/2020 11:01:20  	plate_wall_l = 137.708 
+16/Jul/2020 11:01:20  	wg_l = 549.999 
+16/Jul/2020 11:01:20  
+                      (Corresponding to run ID: 2)
+16/Jul/2020 11:01:20  
+16/Jul/2020 11:01:20  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 11:01:20  	Best goal function value   = 128.961 (Solver)
+16/Jul/2020 11:01:20  	Last goal function value   = 129.357 (Solver)
+16/Jul/2020 11:01:20  	Solver time = 00:05:48 h
+16/Jul/2020 11:01:20  	Parameter update time   = 00:00:04 h
+16/Jul/2020 11:07:11  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+16/Jul/2020 11:07:15  
+                      ________________________________________________________________________
+16/Jul/2020 11:07:15  
+                      Solved problem for parameters:
+
+16/Jul/2020 11:07:15  	ant_wall_l = 28.875 
+16/Jul/2020 11:07:15  	iris_r = 18.885 
+16/Jul/2020 11:07:15  	plate_spacing = 115.5 
+16/Jul/2020 11:07:15  	plate_wall_l = 137.708 
+16/Jul/2020 11:07:15  	wg_l = 549.999 
+16/Jul/2020 11:07:15  
+16/Jul/2020 11:07:15  
+                      Created complete backup of the project. (3.953 sec)
+
+16/Jul/2020 11:07:15  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 11:07:15  	Best goal function value   = 128.469 (Solver)
+16/Jul/2020 11:07:15  	Last goal function value   = 128.469 (Solver)
+16/Jul/2020 11:07:15  	Solver time = 00:05:47 h
+16/Jul/2020 11:07:15  	Parameter update time   = 00:00:04 h
+16/Jul/2020 11:13:07  
+                      ________________________________________________________________________
+16/Jul/2020 11:13:07  
+                      Solved problem for parameters:
+
+16/Jul/2020 11:13:07  	ant_wall_l = 28.875 
+16/Jul/2020 11:13:07  	iris_r = 18.6945 
+16/Jul/2020 11:13:07  	plate_spacing = 119 
+16/Jul/2020 11:13:07  	plate_wall_l = 137.708 
+16/Jul/2020 11:13:07  	wg_l = 549.999 
+16/Jul/2020 11:13:07  
+16/Jul/2020 11:13:07  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 11:13:07  	Best goal function value   = 128.469 (Solver)
+16/Jul/2020 11:13:07  	Last goal function value   = 131.046 (Solver)
+16/Jul/2020 11:13:07  	Solver time = 00:05:48 h
+16/Jul/2020 11:13:07  	Parameter update time   = 00:00:04 h
+16/Jul/2020 11:18:58  
+                      ________________________________________________________________________
+16/Jul/2020 11:18:58  
+                      Solved problem for parameters:
+
+16/Jul/2020 11:18:58  	ant_wall_l = 28.875 
+16/Jul/2020 11:18:58  	iris_r = 18.6945 
+16/Jul/2020 11:18:58  	plate_spacing = 115.5 
+16/Jul/2020 11:18:58  	plate_wall_l = 140.808 
+16/Jul/2020 11:18:58  	wg_l = 549.999 
+16/Jul/2020 11:18:58  
+16/Jul/2020 11:18:58  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 11:18:58  	Best goal function value   = 128.469 (Solver)
+16/Jul/2020 11:18:58  	Last goal function value   = 129.156 (Solver)
+16/Jul/2020 11:18:58  	Solver time = 00:05:47 h
+16/Jul/2020 11:18:58  	Parameter update time   = 00:00:04 h
+16/Jul/2020 11:24:48  
+                      ________________________________________________________________________
+16/Jul/2020 11:24:48  
+                      Solved problem for parameters:
+
+16/Jul/2020 11:24:48  	ant_wall_l = 28.875 
+16/Jul/2020 11:24:48  	iris_r = 18.6945 
+16/Jul/2020 11:24:48  	plate_spacing = 115.5 
+16/Jul/2020 11:24:48  	plate_wall_l = 137.708 
+16/Jul/2020 11:24:48  	wg_l = 555.999 
+16/Jul/2020 11:24:48  
+16/Jul/2020 11:24:48  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 11:24:48  	Best goal function value   = 128.469 (Solver)
+16/Jul/2020 11:24:48  	Last goal function value   = 128.956 (Solver)
+16/Jul/2020 11:24:48  	Solver time = 00:05:46 h
+16/Jul/2020 11:24:48  	Parameter update time   = 00:00:04 h
+16/Jul/2020 11:24:48  
+                      ________________________________________________________________________
+                      
+                      Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 0 (current anchor: 128.961)
+                      The distance from the current anchor (in the Unit Cube) to the prediction is: 0.119944
+
+
+16/Jul/2020 11:30:38  
+                      ________________________________________________________________________
+16/Jul/2020 11:30:38  
+                      Solved problem for parameters:
+
+16/Jul/2020 11:30:38  	ant_wall_l = 27.2566 
+16/Jul/2020 11:30:38  	iris_r = 18.7701 
+16/Jul/2020 11:30:38  	plate_spacing = 85.8486 
+16/Jul/2020 11:30:38  	plate_wall_l = 141.225 
+16/Jul/2020 11:30:38  	wg_l = 503.803 
+16/Jul/2020 11:30:38  
+16/Jul/2020 11:30:38  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 11:30:38  	Best goal function value   = 128.469 (Solver)
+16/Jul/2020 11:30:38  	Last goal function value   = 138.094 (Solver)
+16/Jul/2020 11:30:38  	Solver time = 00:05:46 h
+16/Jul/2020 11:30:38  	Parameter update time   = 00:00:04 h
+16/Jul/2020 11:30:38  
+                      ________________________________________________________________________
+                      
+                      Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 6.22508 (current anchor: 128.469)
+                      The distance from the current anchor (in the Unit Cube) to the prediction is: 0.0384181
+
+
+16/Jul/2020 11:36:46  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+16/Jul/2020 11:36:50  
+                      ________________________________________________________________________
+16/Jul/2020 11:36:50  
+                      Solved problem for parameters:
+
+16/Jul/2020 11:36:50  	ant_wall_l = 29.9516 
+16/Jul/2020 11:36:50  	iris_r = 19.05 
+16/Jul/2020 11:36:50  	plate_spacing = 105.616 
+16/Jul/2020 11:36:50  	plate_wall_l = 140.762 
+16/Jul/2020 11:36:50  	wg_l = 548.887 
+16/Jul/2020 11:36:50  
+16/Jul/2020 11:36:50  
+                      Created complete backup of the project. (3.906 sec)
+
+16/Jul/2020 11:36:50  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 11:36:50  	Best goal function value   = 117.969 (Solver)
+16/Jul/2020 11:36:50  	Last goal function value   = 117.969 (Solver)
+16/Jul/2020 11:36:50  	Solver time = 00:06:04 h
+16/Jul/2020 11:36:50  	Parameter update time   = 00:00:04 h
+16/Jul/2020 11:42:53  
+                      ________________________________________________________________________
+16/Jul/2020 11:42:53  
+                      Solved problem for parameters:
+
+16/Jul/2020 11:42:53  	ant_wall_l = 30.4316 
+16/Jul/2020 11:42:53  	iris_r = 19.05 
+16/Jul/2020 11:42:53  	plate_spacing = 105.616 
+16/Jul/2020 11:42:53  	plate_wall_l = 140.762 
+16/Jul/2020 11:42:53  	wg_l = 548.887 
+16/Jul/2020 11:42:53  
+16/Jul/2020 11:42:53  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 11:42:53  	Best goal function value   = 117.969 (Solver)
+16/Jul/2020 11:42:53  	Last goal function value   = 118.112 (Solver)
+16/Jul/2020 11:42:53  	Solver time = 00:05:59 h
+16/Jul/2020 11:42:53  	Parameter update time   = 00:00:04 h
+16/Jul/2020 11:49:09  
+                      ________________________________________________________________________
+16/Jul/2020 11:49:09  
+                      Solved problem for parameters:
+
+16/Jul/2020 11:49:09  	ant_wall_l = 29.9516 
+16/Jul/2020 11:49:09  	iris_r = 18.8595 
+16/Jul/2020 11:49:09  	plate_spacing = 105.616 
+16/Jul/2020 11:49:09  	plate_wall_l = 140.762 
+16/Jul/2020 11:49:09  	wg_l = 548.887 
+16/Jul/2020 11:49:09  
+16/Jul/2020 11:49:09  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 11:49:09  	Best goal function value   = 117.969 (Solver)
+16/Jul/2020 11:49:09  	Last goal function value   = 118.432 (Solver)
+16/Jul/2020 11:49:09  	Solver time = 00:06:12 h
+16/Jul/2020 11:49:09  	Parameter update time   = 00:00:04 h
+16/Jul/2020 11:55:23  
+                      ________________________________________________________________________
+16/Jul/2020 11:55:23  
+                      Solved problem for parameters:
+
+16/Jul/2020 11:55:23  	ant_wall_l = 29.9516 
+16/Jul/2020 11:55:23  	iris_r = 19.05 
+16/Jul/2020 11:55:23  	plate_spacing = 109.116 
+16/Jul/2020 11:55:23  	plate_wall_l = 140.762 
+16/Jul/2020 11:55:23  	wg_l = 548.887 
+16/Jul/2020 11:55:23  
+16/Jul/2020 11:55:23  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 11:55:23  	Best goal function value   = 117.969 (Solver)
+16/Jul/2020 11:55:23  	Last goal function value   = 119.278 (Solver)
+16/Jul/2020 11:55:23  	Solver time = 00:06:10 h
+16/Jul/2020 11:55:23  	Parameter update time   = 00:00:04 h
+16/Jul/2020 12:01:16  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+16/Jul/2020 12:01:20  
+                      ________________________________________________________________________
+16/Jul/2020 12:01:20  
+                      Solved problem for parameters:
+
+16/Jul/2020 12:01:20  	ant_wall_l = 29.9516 
+16/Jul/2020 12:01:20  	iris_r = 19.05 
+16/Jul/2020 12:01:20  	plate_spacing = 105.616 
+16/Jul/2020 12:01:20  	plate_wall_l = 143.862 
+16/Jul/2020 12:01:20  	wg_l = 548.887 
+16/Jul/2020 12:01:20  
+16/Jul/2020 12:01:20  
+                      Created complete backup of the project. (3.875 sec)
+
+16/Jul/2020 12:01:20  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 12:01:20  	Best goal function value   = 116.756 (Solver)
+16/Jul/2020 12:01:20  	Last goal function value   = 116.756 (Solver)
+16/Jul/2020 12:01:20  	Solver time = 00:05:49 h
+16/Jul/2020 12:01:20  	Parameter update time   = 00:00:04 h
+16/Jul/2020 12:07:11  
+                      ________________________________________________________________________
+16/Jul/2020 12:07:11  
+                      Solved problem for parameters:
+
+16/Jul/2020 12:07:11  	ant_wall_l = 29.9516 
+16/Jul/2020 12:07:11  	iris_r = 19.05 
+16/Jul/2020 12:07:11  	plate_spacing = 105.616 
+16/Jul/2020 12:07:11  	plate_wall_l = 140.762 
+16/Jul/2020 12:07:11  	wg_l = 554.887 
+16/Jul/2020 12:07:11  
+16/Jul/2020 12:07:11  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 12:07:11  	Best goal function value   = 116.756 (Solver)
+16/Jul/2020 12:07:11  	Last goal function value   = 117.985 (Solver)
+16/Jul/2020 12:07:11  	Solver time = 00:05:47 h
+16/Jul/2020 12:07:11  	Parameter update time   = 00:00:04 h
+16/Jul/2020 12:07:12  
+                      ________________________________________________________________________
+                      
+                      Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 74.344 (current anchor: 117.969)
+                      The distance from the current anchor (in the Unit Cube) to the prediction is: 0.0567164
+
+
+16/Jul/2020 12:13:01  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+16/Jul/2020 12:13:05  
+                      ________________________________________________________________________
+16/Jul/2020 12:13:05  
+                      Solved problem for parameters:
+
+16/Jul/2020 12:13:05  	ant_wall_l = 28.5961 
+16/Jul/2020 12:13:05  	iris_r = 18.512 
+16/Jul/2020 12:13:05  	plate_spacing = 107.431 
+16/Jul/2020 12:13:05  	plate_wall_l = 149.516 
+16/Jul/2020 12:13:05  	wg_l = 531.944 
+16/Jul/2020 12:13:05  
+16/Jul/2020 12:13:05  
+                      Created complete backup of the project. (3.875 sec)
+
+16/Jul/2020 12:13:05  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 12:13:05  	Best goal function value   = 115.438 (Solver)
+16/Jul/2020 12:13:05  	Last goal function value   = 115.438 (Solver)
+16/Jul/2020 12:13:05  	Solver time = 00:05:45 h
+16/Jul/2020 12:13:05  	Parameter update time   = 00:00:04 h
+16/Jul/2020 12:18:55  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+16/Jul/2020 12:18:59  
+                      ________________________________________________________________________
+16/Jul/2020 12:18:59  
+                      Solved problem for parameters:
+
+16/Jul/2020 12:18:59  	ant_wall_l = 29.0761 
+16/Jul/2020 12:18:59  	iris_r = 18.512 
+16/Jul/2020 12:18:59  	plate_spacing = 107.431 
+16/Jul/2020 12:18:59  	plate_wall_l = 149.516 
+16/Jul/2020 12:18:59  	wg_l = 531.944 
+16/Jul/2020 12:18:59  
+16/Jul/2020 12:18:59  
+                      Created complete backup of the project. (3.813 sec)
+
+16/Jul/2020 12:18:59  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 12:18:59  	Best goal function value   = 114.439 (Solver)
+16/Jul/2020 12:18:59  	Last goal function value   = 114.439 (Solver)
+16/Jul/2020 12:18:59  	Solver time = 00:05:46 h
+16/Jul/2020 12:18:59  	Parameter update time   = 00:00:04 h
+16/Jul/2020 12:24:49  
+                      ________________________________________________________________________
+16/Jul/2020 12:24:49  
+                      Solved problem for parameters:
+
+16/Jul/2020 12:24:49  	ant_wall_l = 28.5961 
+16/Jul/2020 12:24:49  	iris_r = 18.7025 
+16/Jul/2020 12:24:49  	plate_spacing = 107.431 
+16/Jul/2020 12:24:49  	plate_wall_l = 149.516 
+16/Jul/2020 12:24:49  	wg_l = 531.944 
+16/Jul/2020 12:24:49  
+16/Jul/2020 12:24:49  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 12:24:49  	Best goal function value   = 114.439 (Solver)
+16/Jul/2020 12:24:49  	Last goal function value   = 117.358 (Solver)
+16/Jul/2020 12:24:49  	Solver time = 00:05:47 h
+16/Jul/2020 12:24:49  	Parameter update time   = 00:00:03 h
+16/Jul/2020 12:30:43  
+                      ________________________________________________________________________
+16/Jul/2020 12:30:43  
+                      Solved problem for parameters:
+
+16/Jul/2020 12:30:43  	ant_wall_l = 28.5961 
+16/Jul/2020 12:30:43  	iris_r = 18.512 
+16/Jul/2020 12:30:43  	plate_spacing = 110.931 
+16/Jul/2020 12:30:43  	plate_wall_l = 149.516 
+16/Jul/2020 12:30:43  	wg_l = 531.944 
+16/Jul/2020 12:30:43  
+16/Jul/2020 12:30:43  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 12:30:43  	Best goal function value   = 114.439 (Solver)
+16/Jul/2020 12:30:43  	Last goal function value   = 131.423 (Solver)
+16/Jul/2020 12:30:43  	Solver time = 00:05:49 h
+16/Jul/2020 12:30:43  	Parameter update time   = 00:00:05 h
+16/Jul/2020 12:36:34  
+                      ________________________________________________________________________
+16/Jul/2020 12:36:34  
+                      Solved problem for parameters:
+
+16/Jul/2020 12:36:34  	ant_wall_l = 28.5961 
+16/Jul/2020 12:36:34  	iris_r = 18.512 
+16/Jul/2020 12:36:34  	plate_spacing = 107.431 
+16/Jul/2020 12:36:34  	plate_wall_l = 152.616 
+16/Jul/2020 12:36:34  	wg_l = 531.944 
+16/Jul/2020 12:36:34  
+16/Jul/2020 12:36:34  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 12:36:34  	Best goal function value   = 114.439 (Solver)
+16/Jul/2020 12:36:34  	Last goal function value   = 119.867 (Solver)
+16/Jul/2020 12:36:34  	Solver time = 00:05:47 h
+16/Jul/2020 12:36:34  	Parameter update time   = 00:00:04 h
+16/Jul/2020 12:42:26  
+                      ________________________________________________________________________
+16/Jul/2020 12:42:26  
+                      Solved problem for parameters:
+
+16/Jul/2020 12:42:26  	ant_wall_l = 28.5961 
+16/Jul/2020 12:42:26  	iris_r = 18.512 
+16/Jul/2020 12:42:26  	plate_spacing = 107.431 
+16/Jul/2020 12:42:26  	plate_wall_l = 149.516 
+16/Jul/2020 12:42:26  	wg_l = 537.944 
+16/Jul/2020 12:42:26  
+16/Jul/2020 12:42:26  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 12:42:26  	Best goal function value   = 114.439 (Solver)
+16/Jul/2020 12:42:26  	Last goal function value   = 115.457 (Solver)
+16/Jul/2020 12:42:26  	Solver time = 00:05:48 h
+16/Jul/2020 12:42:26  	Parameter update time   = 00:00:04 h
+16/Jul/2020 12:42:26  
+                      ________________________________________________________________________
+                      
+                      Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 61.5773 (current anchor: 115.438)
+                      The distance from the current anchor (in the Unit Cube) to the prediction is: 0.0584094
+
+
+16/Jul/2020 12:48:19  
+                      ________________________________________________________________________
+16/Jul/2020 12:48:19  
+                      Solved problem for parameters:
+
+16/Jul/2020 12:48:19  	ant_wall_l = 29.9516 
+16/Jul/2020 12:48:19  	iris_r = 17.9741 
+16/Jul/2020 12:48:19  	plate_spacing = 102.219 
+16/Jul/2020 12:48:19  	plate_wall_l = 158.27 
+16/Jul/2020 12:48:19  	wg_l = 515 
+16/Jul/2020 12:48:19  
+16/Jul/2020 12:48:19  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 12:48:19  	Best goal function value   = 114.439 (Solver)
+16/Jul/2020 12:48:19  	Last goal function value   = 137.404 (Solver)
+16/Jul/2020 12:48:19  	Solver time = 00:05:49 h
+16/Jul/2020 12:48:19  	Parameter update time   = 00:00:04 h
+16/Jul/2020 12:48:25  
+                      ========================================================================
+16/Jul/2020 12:48:25  
+                      Recovered data for best parameters:
+
+16/Jul/2020 12:48:25  	ant_wall_l = 29.0761 
+16/Jul/2020 12:48:25  	iris_r = 18.512 
+16/Jul/2020 12:48:25  	plate_spacing = 107.431 
+16/Jul/2020 12:48:25  	plate_wall_l = 149.516 
+16/Jul/2020 12:48:25  	wg_l = 531.944 
+16/Jul/2020 12:48:25  
+16/Jul/2020 12:48:25  
+                      Result data recovered from project backup.
+
+16/Jul/2020 12:48:25  	Initial goal function value  = 128.961 (Solver)
+16/Jul/2020 12:48:25  	Best goal function value   = 114.439 (Solver)
+16/Jul/2020 12:48:25  	Last goal function value   = 114.439 (Solver)
+16/Jul/2020 12:48:25  
+                      ________________________________________________________________________
+
+
+16/Jul/2020 12:48:25  	Total solver time           = 01:57:04 h (20 solver runs)
+16/Jul/2020 12:48:25  	Total data recovery time    = 00:00:06 h (1 loaded)
+16/Jul/2020 12:48:25  	Total backup project time   = 00:00:24 h (6 backups)
+16/Jul/2020 12:48:25  	Total parameter update time = 00:01:19 h
+16/Jul/2020 12:48:25  	Total optimizer time        = 01:58:54 h (21 evaluations)
+
+16/Jul/2020 12:48:25  
+                      ________________________________________________________________________
+                      
+                      Optimization successfully improved the goal value. Best parameter set is stored.
+

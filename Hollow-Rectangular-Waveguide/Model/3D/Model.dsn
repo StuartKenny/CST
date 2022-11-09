@@ -1,0 +1,150 @@
+*** File Version: 17.00
+
+Number of ports: 2
+Portnames: 1 2
+Modenumbers: 3 3
+Portlabels: "" ""
+StaticSources:
+ThermalSources:
+FloquetPortNames:
+FloquetPortModes:
+Terminals:
+TerminalToReferenceTable:
+StaticSourceGroups:
+ThermalSourceGroups:
+TerminalSourceGroups:
+PortSourceGroups:
+FloquetPortSourceGroups:
+Number of frequency-points: 2
+Fmin: 8.000000e+09
+Fmax: 1.500000e+10
+Fscale: 1.000000e+09
+
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 2
+Modenumber: 3
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** newmode
+SetType: 100
+Portname: 2
+Modenumber: 2
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** newmode
+SetType: 100
+Portname: 2
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 1
+Modenumber: 3
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** newmode
+SetType: 100
+Portname: 1
+Modenumber: 2
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** newmode
+SetType: 100
+Portname: 1
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+
+
+*** newmonitor
+monname: "h-field (f= 15)"
+nmonfrequencies: 1
+monfrequencies: "15" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f= 15)"
+nmonfrequencies: 1
+monfrequencies: "15" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f= 13.5)"
+nmonfrequencies: 1
+monfrequencies: "13.5" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f= 13.5)"
+nmonfrequencies: 1
+monfrequencies: "13.5" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10)"
+nmonfrequencies: 1
+monfrequencies: "10" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10)"
+nmonfrequencies: 1
+monfrequencies: "10" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+

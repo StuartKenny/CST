@@ -1,0 +1,73 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Transient",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Antenna length": [
+                {
+                    "from": "26",
+                    "samples": "2",
+                    "to": "27",
+                    "type": "linear",
+                    "varname": "ant_l"
+                },
+                {
+                    "index": 1
+                }
+            ],
+            "Distance from antenna to wall": [
+                {
+                    "from": "31.7",
+                    "samples": "2",
+                    "to": "32.7",
+                    "type": "linear",
+                    "varname": "ant_wall_l"
+                },
+                {
+                    "index": 2
+                }
+            ],
+            "Height of waveguide": [
+                {
+                    "from": "38.1",
+                    "samples": "2",
+                    "to": "39.1",
+                    "type": "linear",
+                    "varname": "wg_h"
+                },
+                {
+                    "index": 4
+                }
+            ],
+            "Length of waveguide": [
+                {
+                    "from": "480",
+                    "samples": "2",
+                    "to": "490",
+                    "type": "linear",
+                    "varname": "wg_l"
+                },
+                {
+                    "index": 3
+                }
+            ],
+            "Width of waveguide": [
+                {
+                    "from": "95.2",
+                    "samples": "2",
+                    "to": "96.2",
+                    "type": "linear",
+                    "varname": "wg_w"
+                },
+                {
+                    "index": 5
+                }
+            ]
+        },
+        "version": 1
+    }
+}

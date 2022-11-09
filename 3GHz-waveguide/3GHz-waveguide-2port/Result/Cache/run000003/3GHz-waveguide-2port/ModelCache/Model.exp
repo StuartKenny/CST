@@ -1,0 +1,11 @@
+@CACHEFILEVERSION 2
+@DOUBLE
+-wg_w/2#-wg_wall
+-50.8
+beam_dia
+3
+beam_dia/2#
+1.5
+wg_w/2#+wg_wall
+50.8
+@LONG

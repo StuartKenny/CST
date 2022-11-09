@@ -1,0 +1,19 @@
+[Version]
+2
+[ProjectVersion]
+'# EMS Version: Version 2019.7 - Jul 05 2019 - ACIS 28.0.2 -
+[Author]
+mne4
+[Mesh Cells]
+9,105
+[Mesh Type]
+Tetrahedral
+[Last Problem Type]
+M-Static Solver
+[Last Solver Type]
+LF MStatic
+[Last Solver Type Abb]
+ms
+[Results]
+Magnetostatic Solver
+[Comment]

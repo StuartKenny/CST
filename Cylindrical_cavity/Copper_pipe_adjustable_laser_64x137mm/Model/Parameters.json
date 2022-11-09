@@ -1,0 +1,47 @@
+{
+    "parameters": [
+        {
+            "descr": "Internal radius/mm",
+            "expr": "(dia/2)-w",
+            "name": "a",
+            "value": "32.15"
+        },
+        {
+            "descr": "Internal depth/mm",
+            "expr": "137.2",
+            "name": "d",
+            "value": "137.2"
+        },
+        {
+            "descr": "Wall thickness/mm",
+            "expr": "1.35",
+            "name": "w",
+            "value": "1.35"
+        },
+        {
+            "descr": "Pipe external diameter/mm",
+            "expr": "67",
+            "name": "dia",
+            "value": "67"
+        },
+        {
+            "descr": "Screw diameter/mm",
+            "expr": "36",
+            "name": "dia_screw",
+            "value": "36"
+        },
+        {
+            "descr": "Screw protusion into cavity/mm",
+            "expr": "11.240740740741",
+            "name": "protrusion",
+            "value": "11.240740740741"
+        },
+        {
+            "descr": "Radius of laser aperture/mm",
+            "expr": "3",
+            "name": "r_aperture",
+            "value": "3"
+        }
+    ],
+    "version": 1
+}

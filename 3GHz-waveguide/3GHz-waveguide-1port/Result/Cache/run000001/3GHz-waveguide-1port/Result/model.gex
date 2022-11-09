@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaGeometryFile creator="MatrixCalc" version="20170926">
+  <Components>
+    <Shape name="Components\Probe1:coax" id="1" visible="1" material="Coax" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="1 2 3 4"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\Probe1:conductor" id="2" visible="1" material="Copper (pure)" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="5 6 7"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\Waveguide:Vacuum" id="3" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="8 9 10 11 12 13 14 15"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\Waveguide:Walls" id="4" visible="1" material="Aluminum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="16 17 18 19 20 21 22 23 24 25 26 27"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+  </Components>
+  <SimulationDomain min="-3 -50.59999847412 -22.54999923706" max="490 50.59999847412 25.54999923706"/>
+  <Materials>
+    <Material name="air_0" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Coax" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Copper (pure)" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Vacuum" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Aluminum" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+  </Materials>
+  <GeometryFile filename="3d.slm" type="slim" subdomain_id=""/>
+  <MeshType type="HEX"/>
+  <Groups/>
+  <HexMesh>
+    <Dimensions nx="71" ny="31" nz="23"/>
+    <MeshPlanesX values="-3 -1.5 0 1.725981841141 3.451963682282 5.177945523423 11.63313485613 19.00936514387 25.46455447658 27.19053631772 28.91651815886 30.6425 31.67125 32.7 33.72875 34.7575 36.51575181056 38.27400362113 40.03225543169 47.94125722351 56.60907570932 65.27689419513 73.94471268095 82.61253116676 91.28034965257 99.94816813839 108.6159866242 117.28380511 125.9516235958 134.6194420816 143.2872605675 151.9550790533 160.6228975391 169.2907160249 177.9585345107 186.6263529965 195.2941714823 203.9619899681 212.629808454 221.2976269398 229.9654454256 238.6332639114 247.3010823972 255.968900883 264.6367193688 273.3045378546 281.9723563405 290.6401748263 299.3079933121 307.9758117979 316.6436302837 325.3114487695 333.9792672553 342.6470857412 351.314904227 359.9827227128 368.6505411986 377.3183596844 385.9861781702 394.653996656 403.3218151419 411.9896336277 420.6574521135 429.3252705993 437.9930890851 446.6609075709 455.3287260567 463.9965445425 472.6643630284 481.3321815142 490"/>
+    <MeshPlanesY values="-50.6 -49.1 -47.6 -45.87273786868 -44.14547573735 -42.41821360603 -35.95648853324 -28.53799617775 -21.11950382225 -13.70101146676 -7.239286393972 -5.512024262648 -3.784762131324 -2.0575 -1.02875 0 1.02875 2.0575 3.784762131324 5.512024262648 7.239286393972 13.70101146676 21.11950382225 28.53799617775 35.95648853324 42.41821360603 44.14547573735 45.87273786868 47.6 49.1 50.6"/>
+    <MeshPlanesZ values="-22.55 -21.05 -19.55 -17.89226352913 -16.23452705826 -14.5767905874 -11.4232094126 -9.765472941735 -8.107736470868 -6.45 -4.692761508331 -2.935523016663 -1.178284524994 6.55 14.27828452499 16.03552301666 17.79276150833 19.55 21.05 22.55 23.55 24.55 25.55"/>
+  </HexMesh>
+</MetaGeometryFile>

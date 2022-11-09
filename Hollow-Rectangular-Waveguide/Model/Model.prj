@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.0 - Sep 20 2018 - ACIS 28.0.2 -
+[Author]
+rodrigoenjiu
+[Mesh Cells]
+
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unavailable
+[Modeler Unique ID]
+5:hollow-rectangular-waveguide.cst?c913fe32dd7e0a240d42060dc84adfa6?6701:numberofparameters=3:port=1>mode=1>zre=0>zim=0?port=1>mode=2>zre=0>zim=0?port=1>mode=3>zre=0>zim=0?port=2>mode=1>zre=0>zim=0?port=2>mode=2>zre=0>zim=0?port=2>mode=3>zre=0>zim=0:::a?b?l
+[Comment]

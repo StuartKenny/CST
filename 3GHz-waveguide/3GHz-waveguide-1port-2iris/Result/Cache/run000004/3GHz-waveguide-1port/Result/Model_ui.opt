@@ -1,0 +1,14 @@
+Algorithm: Trust Region Framework
+Number of evaluations: 6
+              (solver: 5, reloaded: 1)
+Initial goal function value = 0.957023624505
+Best goal function value    = 0.956556019626
+Last goal function value    = 0.956556019626  (reloaded)
+
+Last solver evaluation time = 01:39:28 h
+
+
+Best parameters so far:
+
+ ant_l = 28.7717
+ ant_wall_l = 32.4453

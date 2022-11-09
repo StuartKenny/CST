@@ -1,0 +1,44 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "rStubs",
+         "type": "string",
+         "value": "0.9*3.45"
+      },
+      {
+         "name": "rCoax",
+         "type": "string",
+         "value": "4.115/2"
+      },
+      {
+         "name": "hStub2",
+         "type": "string",
+         "value": "1.2*3.45*0"
+      },
+      {
+         "name": "hStub1",
+         "type": "string",
+         "value": "1.7*3.45*0"
+      },
+      {
+         "name": "dStub1Stub2",
+         "type": "string",
+         "value": "4.35*3.45"
+      },
+      {
+         "name": "dCoaxStub1",
+         "type": "string",
+         "value": "0.15*3.45"
+      },
+      {
+         "name": "dCoaxBorder",
+         "type": "string",
+         "value": "3.835*3.45"
+      }
+   ],
+   "outputVariables": []
+}

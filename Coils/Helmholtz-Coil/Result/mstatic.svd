@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SolutionVectorDescription creator="Ms-Solver">
+  <Field>
+    <Boundary>tangential; open; tangential; open; normal; open</Boundary>
+    <Frequency>0</Frequency>
+    <Symmetry>electric; electric; magnetic</Symmetry>
+    <Type>B-Field</Type>
+  </Field>
+  <Mesh>
+    <BBox>-15.5; 15.5; -15.5; 15.5; -15; 15</BBox>
+    <File>3d_full.slim</File>
+    <GeomScale>1</GeomScale>
+    <Type>Tet</Type>
+  </Mesh>
+</SolutionVectorDescription>

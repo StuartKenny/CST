@@ -1,0 +1,65 @@
+{
+    "parameters": [
+        {
+            "descr": "internal length of waveguide",
+            "expr": "549.99869041517",
+            "name": "wg_l",
+            "value": "549.99869041517"
+        },
+        {
+            "descr": "internal width of waveguide",
+            "expr": "95.2",
+            "name": "wg_w",
+            "value": "95.2"
+        },
+        {
+            "descr": "internal height of waveguide",
+            "expr": "38.1",
+            "name": "wg_h",
+            "value": "38.1"
+        },
+        {
+            "descr": "waveguide wall thickness",
+            "expr": "3",
+            "name": "wg_wall",
+            "value": "3"
+        },
+        {
+            "descr": "length of antennae",
+            "expr": "28.875",
+            "name": "ant_l",
+            "value": "28.875"
+        },
+        {
+            "descr": "radius of antennae",
+            "expr": "1.27/2",
+            "name": "ant_r",
+            "value": "0.635"
+        },
+        {
+            "descr": "radius of coaxial cable",
+            "expr": "4.115/2",
+            "name": "coax_r",
+            "value": "2.0575"
+        },
+        {
+            "descr": "distance from centre of antenna to endwall",
+            "expr": "28.875",
+            "name": "ant_wall_l",
+            "value": "28.875"
+        },
+        {
+            "descr": "distance from endwall to first plate",
+            "expr": "137.70768480006",
+            "name": "plate_wall_l",
+            "value": "137.70768480006"
+        },
+        {
+            "descr": "radius of iris",
+            "expr": "18.504049995538",
+            "name": "iris_r",
+            "value": "18.504049995538"
+        }
+    ],
+    "version": 1
+}

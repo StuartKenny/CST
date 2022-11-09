@@ -1,0 +1,73 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Transient",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "from": "302.3",
+                    "samples": "3",
+                    "to": "304.3",
+                    "type": "linear",
+                    "varname": "wg_l"
+                },
+                {
+                    "index": 1
+                }
+            ],
+            "Sequence 2": [
+                {
+                    "from": "25.77",
+                    "samples": "3",
+                    "to": "27.77",
+                    "type": "linear",
+                    "varname": "ant_l_rx"
+                },
+                {
+                    "index": 2
+                }
+            ],
+            "Sequence 3": [
+                {
+                    "from": "31.8",
+                    "samples": "3",
+                    "to": "33.8",
+                    "type": "linear",
+                    "varname": "ant_wall_l_rx"
+                },
+                {
+                    "index": 3
+                }
+            ],
+            "Sequence 4": [
+                {
+                    "from": "25",
+                    "samples": "3",
+                    "to": "27",
+                    "type": "linear",
+                    "varname": "ant_l_tx"
+                },
+                {
+                    "index": 4
+                }
+            ],
+            "Sequence 5": [
+                {
+                    "from": "31.7",
+                    "samples": "3",
+                    "to": "33.7",
+                    "type": "linear",
+                    "varname": "ant_wall_l_tx"
+                },
+                {
+                    "index": 5
+                }
+            ]
+        },
+        "version": 1
+    }
+}

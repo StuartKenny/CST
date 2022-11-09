@@ -1,0 +1,64 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "wg_l",
+         "type": "float",
+         "value": 531.94379516152
+      },
+      {
+         "name": "wg_w",
+         "type": "float",
+         "value": 95.2
+      },
+      {
+         "name": "wg_h",
+         "type": "float",
+         "value": 38.1
+      },
+      {
+         "name": "wg_wall",
+         "type": "float",
+         "value": 3.0
+      },
+      {
+         "name": "ant_l",
+         "type": "float",
+         "value": 28.875
+      },
+      {
+         "name": "ant_r",
+         "type": "float",
+         "value": 0.635
+      },
+      {
+         "name": "coax_r",
+         "type": "float",
+         "value": 2.0575
+      },
+      {
+         "name": "ant_wall_l",
+         "type": "float",
+         "value": 29.076057154865
+      },
+      {
+         "name": "plate_wall_l",
+         "type": "float",
+         "value": 149.51598368978
+      },
+      {
+         "name": "plate_spacing",
+         "type": "string",
+         "value": "115.5/2"
+      },
+      {
+         "name": "aperture",
+         "type": "float",
+         "value": 0.5
+      }
+   ],
+   "outputVariables": []
+}

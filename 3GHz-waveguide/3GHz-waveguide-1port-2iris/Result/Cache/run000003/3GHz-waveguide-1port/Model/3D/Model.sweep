@@ -1,0 +1,32 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Transient",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "from": "26",
+                    "step width": ".5",
+                    "to": "30",
+                    "type": "linear",
+                    "varname": "ant_l"
+                },
+                {
+                    "from": "27",
+                    "step width": "1",
+                    "to": "33",
+                    "type": "linear",
+                    "varname": "ant_wall_l"
+                },
+                {
+                    "index": 1
+                }
+            ]
+        },
+        "version": 1
+    }
+}

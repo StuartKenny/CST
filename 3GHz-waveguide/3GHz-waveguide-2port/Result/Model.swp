@@ -1,0 +1,409 @@
+07/Jul/2021 10:45:45  ==========================================================================
+                      Sequence: Sequence 1
+                      ==========================================================================
+
+07/Jul/2021 10:45:45  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 0.5
+07/Jul/2021 10:45:48  
+                      Structure update: Successful
+07/Jul/2021 10:58:19            Solver: Successful
+07/Jul/2021 10:58:19       Solver time: 0 hours, 12 min., 31 sec.
+07/Jul/2021 10:58:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 0.53909475
+07/Jul/2021 10:58:23  
+                      Structure update: Successful
+07/Jul/2021 11:10:28            Solver: Successful
+07/Jul/2021 11:10:28       Solver time: 0 hours, 12 min., 5 sec.
+07/Jul/2021 11:10:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 0.58124631
+07/Jul/2021 11:10:32  
+                      Structure update: Successful
+07/Jul/2021 11:22:25            Solver: Successful
+07/Jul/2021 11:22:25       Solver time: 0 hours, 11 min., 53 sec.
+07/Jul/2021 11:22:25  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 0.62669367
+07/Jul/2021 11:22:29  
+                      Structure update: Successful
+07/Jul/2021 11:34:07            Solver: Successful
+07/Jul/2021 11:34:07       Solver time: 0 hours, 11 min., 38 sec.
+07/Jul/2021 11:34:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 0.67569454
+07/Jul/2021 11:34:11  
+                      Structure update: Successful
+07/Jul/2021 11:45:29            Solver: Successful
+07/Jul/2021 11:45:29       Solver time: 0 hours, 11 min., 18 sec.
+07/Jul/2021 11:45:29  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 0.72852677
+07/Jul/2021 11:45:33  
+                      Structure update: Successful
+07/Jul/2021 11:56:08            Solver: Successful
+07/Jul/2021 11:56:08       Solver time: 0 hours, 10 min., 35 sec.
+07/Jul/2021 11:56:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 0.78548992
+07/Jul/2021 11:56:12  
+                      Structure update: Successful
+07/Jul/2021 12:06:37            Solver: Successful
+07/Jul/2021 12:06:37       Solver time: 0 hours, 10 min., 25 sec.
+07/Jul/2021 12:06:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 0.84690699
+07/Jul/2021 12:06:41  
+                      Structure update: Successful
+07/Jul/2021 12:17:43            Solver: Successful
+07/Jul/2021 12:17:43       Solver time: 0 hours, 11 min., 2 sec.
+07/Jul/2021 12:17:43  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 0.91312623
+07/Jul/2021 12:17:47  
+                      Structure update: Successful
+07/Jul/2021 12:28:21            Solver: Successful
+07/Jul/2021 12:28:21       Solver time: 0 hours, 10 min., 34 sec.
+07/Jul/2021 12:28:21  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 0.98452312
+07/Jul/2021 12:28:25  
+                      Structure update: Successful
+07/Jul/2021 12:38:38            Solver: Successful
+07/Jul/2021 12:38:38       Solver time: 0 hours, 10 min., 13 sec.
+07/Jul/2021 12:38:38  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 1.0615025
+07/Jul/2021 12:38:42  
+                      Structure update: Successful
+07/Jul/2021 12:48:43            Solver: Successful
+07/Jul/2021 12:48:43       Solver time: 0 hours, 10 min., 1 sec.
+07/Jul/2021 12:48:43  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 1.1445009
+07/Jul/2021 12:48:47  
+                      Structure update: Successful
+07/Jul/2021 12:58:41            Solver: Successful
+07/Jul/2021 12:58:41       Solver time: 0 hours, 9 min., 54 sec.
+07/Jul/2021 12:58:41  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 1.2339888
+07/Jul/2021 12:58:45  
+                      Structure update: Successful
+07/Jul/2021 13:08:42            Solver: Successful
+07/Jul/2021 13:08:42       Solver time: 0 hours, 9 min., 57 sec.
+07/Jul/2021 13:08:42  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 1.3304738
+07/Jul/2021 13:08:46  
+                      Structure update: Successful
+07/Jul/2021 13:18:34            Solver: Successful
+07/Jul/2021 13:18:34       Solver time: 0 hours, 9 min., 48 sec.
+07/Jul/2021 13:18:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 1.4345029
+07/Jul/2021 13:18:38  
+                      Structure update: Successful
+07/Jul/2021 13:28:37            Solver: Successful
+07/Jul/2021 13:28:37       Solver time: 0 hours, 9 min., 59 sec.
+07/Jul/2021 13:28:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 1.546666
+07/Jul/2021 13:28:41  
+                      Structure update: Successful
+07/Jul/2021 13:39:36            Solver: Successful
+07/Jul/2021 13:39:36       Solver time: 0 hours, 10 min., 55 sec.
+07/Jul/2021 13:39:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 1.667599
+07/Jul/2021 13:39:40  
+                      Structure update: Successful
+07/Jul/2021 13:50:23            Solver: Successful
+07/Jul/2021 13:50:23       Solver time: 0 hours, 10 min., 43 sec.
+07/Jul/2021 13:50:23  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 1.7979878
+07/Jul/2021 13:50:27  
+                      Structure update: Successful
+07/Jul/2021 14:01:10            Solver: Successful
+07/Jul/2021 14:01:10       Solver time: 0 hours, 10 min., 43 sec.
+07/Jul/2021 14:01:10  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 1.9385716
+07/Jul/2021 14:01:14  
+                      Structure update: Successful
+07/Jul/2021 14:10:18            Solver: Successful
+07/Jul/2021 14:10:18       Solver time: 0 hours, 9 min., 4 sec.
+07/Jul/2021 14:10:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 2.0901475
+07/Jul/2021 14:10:20  
+                      Structure update: Successful
+07/Jul/2021 14:19:26            Solver: Successful
+07/Jul/2021 14:19:26       Solver time: 0 hours, 9 min., 6 sec.
+07/Jul/2021 14:19:26  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 2.2535751
+07/Jul/2021 14:19:28  
+                      Structure update: Successful
+07/Jul/2021 14:28:01            Solver: Successful
+07/Jul/2021 14:28:01       Solver time: 0 hours, 8 min., 33 sec.
+07/Jul/2021 14:28:01  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 2.4297811
+07/Jul/2021 14:28:03  
+                      Structure update: Successful
+07/Jul/2021 14:36:35            Solver: Successful
+07/Jul/2021 14:36:35       Solver time: 0 hours, 8 min., 32 sec.
+07/Jul/2021 14:36:35  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 2.6197645
+07/Jul/2021 14:36:38  
+                      Structure update: Successful
+07/Jul/2021 14:45:08            Solver: Successful
+07/Jul/2021 14:45:08       Solver time: 0 hours, 8 min., 30 sec.
+07/Jul/2021 14:45:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 2.8246026
+07/Jul/2021 14:45:10  
+                      Structure update: Successful
+07/Jul/2021 14:53:49            Solver: Successful
+07/Jul/2021 14:53:49       Solver time: 0 hours, 8 min., 39 sec.
+07/Jul/2021 14:53:49  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 3.0454568
+07/Jul/2021 14:53:51  
+                      Structure update: Successful
+07/Jul/2021 15:04:24            Solver: Successful
+07/Jul/2021 15:04:24       Solver time: 0 hours, 10 min., 33 sec.
+07/Jul/2021 15:04:24  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 3.2835796
+07/Jul/2021 15:04:26  
+                      Structure update: Successful
+07/Jul/2021 15:14:28            Solver: Successful
+07/Jul/2021 15:14:28       Solver time: 0 hours, 10 min., 2 sec.
+07/Jul/2021 15:14:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 3.5403211
+07/Jul/2021 15:14:31  
+                      Structure update: Successful
+07/Jul/2021 15:24:08            Solver: Successful
+07/Jul/2021 15:24:08       Solver time: 0 hours, 9 min., 37 sec.
+07/Jul/2021 15:24:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 3.8171371
+07/Jul/2021 15:24:10  
+                      Structure update: Successful
+07/Jul/2021 15:58:30            Solver: Successful
+07/Jul/2021 15:58:30       Solver time: 0 hours, 34 min., 20 sec.
+07/Jul/2021 15:58:30  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 4.1155971
+07/Jul/2021 15:58:34  
+                      Structure update: Successful
+07/Jul/2021 16:10:25            Solver: Successful
+07/Jul/2021 16:10:25       Solver time: 0 hours, 11 min., 51 sec.
+07/Jul/2021 16:10:25  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 4.4373937
+07/Jul/2021 16:10:28  
+                      Structure update: Successful
+07/Jul/2021 16:21:32            Solver: Successful
+07/Jul/2021 16:21:32       Solver time: 0 hours, 11 min., 4 sec.
+07/Jul/2021 16:21:32  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 4.7843513
+07/Jul/2021 16:21:36  
+                      Structure update: Successful
+07/Jul/2021 16:32:04            Solver: Successful
+07/Jul/2021 16:32:04       Solver time: 0 hours, 10 min., 28 sec.
+07/Jul/2021 16:32:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 5.1584374
+07/Jul/2021 16:32:08  
+                      Structure update: Successful
+07/Jul/2021 16:43:24            Solver: Successful
+07/Jul/2021 16:43:24       Solver time: 0 hours, 11 min., 16 sec.
+07/Jul/2021 16:43:24  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 5.5617731
+07/Jul/2021 16:43:28  
+                      Structure update: Successful
+07/Jul/2021 16:54:25            Solver: Successful
+07/Jul/2021 16:54:25       Solver time: 0 hours, 10 min., 57 sec.
+07/Jul/2021 16:54:25  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 5.9966454
+07/Jul/2021 16:54:29  
+                      Structure update: Successful
+07/Jul/2021 17:05:14            Solver: Successful
+07/Jul/2021 17:05:14       Solver time: 0 hours, 10 min., 45 sec.
+07/Jul/2021 17:05:14  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 6.4655201
+07/Jul/2021 17:05:18  
+                      Structure update: Successful
+07/Jul/2021 17:19:31            Solver: Successful
+07/Jul/2021 17:19:31       Solver time: 0 hours, 14 min., 13 sec.
+07/Jul/2021 17:19:31  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 6.971056
+07/Jul/2021 17:19:34  
+                      Structure update: Successful
+07/Jul/2021 17:33:02            Solver: Successful
+07/Jul/2021 17:33:02       Solver time: 0 hours, 13 min., 28 sec.
+07/Jul/2021 17:33:02  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 7.5161194
+07/Jul/2021 17:33:06  
+                      Structure update: Successful
+07/Jul/2021 17:46:04            Solver: Successful
+07/Jul/2021 17:46:04       Solver time: 0 hours, 12 min., 58 sec.
+07/Jul/2021 17:46:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 8.1038011
+07/Jul/2021 17:46:08  
+                      Structure update: Successful
+07/Jul/2021 17:58:21            Solver: Successful
+07/Jul/2021 17:58:21       Solver time: 0 hours, 12 min., 13 sec.
+07/Jul/2021 17:58:21  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 8.7374333
+07/Jul/2021 17:58:25  
+                      Structure update: Successful
+07/Jul/2021 18:11:42            Solver: Successful
+07/Jul/2021 18:11:42       Solver time: 0 hours, 13 min., 17 sec.
+07/Jul/2021 18:11:42  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 9.420609
+07/Jul/2021 18:11:45  
+                      Structure update: Successful
+07/Jul/2021 18:23:34            Solver: Successful
+07/Jul/2021 18:23:34       Solver time: 0 hours, 11 min., 49 sec.
+07/Jul/2021 18:23:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 10.157202
+07/Jul/2021 18:23:38  
+                      Structure update: Successful
+07/Jul/2021 18:35:10            Solver: Successful
+07/Jul/2021 18:35:10       Solver time: 0 hours, 11 min., 32 sec.
+07/Jul/2021 18:35:10  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 10.951388
+07/Jul/2021 18:35:14  
+                      Structure update: Successful
+07/Jul/2021 18:45:51            Solver: Successful
+07/Jul/2021 18:45:51       Solver time: 0 hours, 10 min., 37 sec.
+07/Jul/2021 18:45:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 11.807672
+07/Jul/2021 18:45:53  
+                      Structure update: Successful
+07/Jul/2021 18:56:48            Solver: Successful
+07/Jul/2021 18:56:48       Solver time: 0 hours, 10 min., 55 sec.
+07/Jul/2021 18:56:48  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 12.730908
+07/Jul/2021 18:56:51  
+                      Structure update: Successful
+07/Jul/2021 19:14:13            Solver: Successful
+07/Jul/2021 19:14:13       Solver time: 0 hours, 17 min., 22 sec.
+07/Jul/2021 19:14:13  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 13.726332
+07/Jul/2021 19:14:15  
+                      Structure update: Successful
+07/Jul/2021 19:28:57            Solver: Successful
+07/Jul/2021 19:28:57       Solver time: 0 hours, 14 min., 42 sec.
+07/Jul/2021 19:28:57  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 14.799587
+07/Jul/2021 19:28:59  
+                      Structure update: Successful
+07/Jul/2021 19:39:52            Solver: Successful
+07/Jul/2021 19:39:52       Solver time: 0 hours, 10 min., 53 sec.
+07/Jul/2021 19:39:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 15.956759
+07/Jul/2021 19:39:55  
+                      Structure update: Successful
+07/Jul/2021 19:52:58            Solver: Successful
+07/Jul/2021 19:52:58       Solver time: 0 hours, 13 min., 3 sec.
+07/Jul/2021 19:52:58  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 17.20441
+07/Jul/2021 19:53:00  
+                      Structure update: Successful
+07/Jul/2021 20:06:18            Solver: Successful
+07/Jul/2021 20:06:18       Solver time: 0 hours, 13 min., 18 sec.
+07/Jul/2021 20:06:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 18.549615
+07/Jul/2021 20:06:20  
+                      Structure update: Successful
+07/Jul/2021 20:18:12            Solver: Successful
+07/Jul/2021 20:18:12       Solver time: 0 hours, 11 min., 52 sec.
+07/Jul/2021 20:18:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 20
+07/Jul/2021 20:18:15  
+                      Structure update: Successful
+07/Jul/2021 20:32:26            Solver: Successful
+07/Jul/2021 20:32:26       Solver time: 0 hours, 14 min., 11 sec.
+07/Jul/2021 20:32:26  --------------------------------------------------------------------------
+07/Jul/2021 20:32:26  
+                      ==========================================================================
+                      Total evaluation time: 9 hours, 43 min., 54 sec.
+                      ==========================================================================

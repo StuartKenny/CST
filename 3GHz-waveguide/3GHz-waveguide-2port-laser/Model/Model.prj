@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.7 - Jul 05 2019 - ACIS 28.0.2 -
+[Author]
+CST
+[Mesh Cells]
+131,580
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:3ghz-waveguide-2port-laser.cst?87a95c6669e9668636a4cc045c0a1ed0?159301:numberofparameters=13:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::beam_dia?ant_l_rx?ant_l_tx?ant_r?ant_wall_l_rx?ant_wall_l_tx?cell_dia?cell_length?coax_r?wg_h?wg_l?wg_w?wg_wall
+[Comment]

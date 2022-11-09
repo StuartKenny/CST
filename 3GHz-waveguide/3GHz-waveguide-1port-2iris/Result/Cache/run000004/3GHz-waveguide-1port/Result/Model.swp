@@ -1,0 +1,254 @@
+02/Jul/2020 08:32:31  Some of the upcoming parameter combinations were already performed previously and will be skipped.
+                      Potential changes in the result settings like Template Based Post Processing are not taken into account. The feature can be deactivated via "Parameter Sweep -> Options..."
+02/Jul/2020 08:32:31  ==========================================================================
+                      Sequence: Sequence 1
+                      ==========================================================================
+
+02/Jul/2020 08:32:31  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_l = 26
+02/Jul/2020 08:32:32  
+                      Structure update: Successful
+02/Jul/2020 08:33:35            Solver: Successful
+02/Jul/2020 08:33:35       Solver time: 0 hours, 1 min., 3 sec.
+02/Jul/2020 08:33:35  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_l = 26.5
+02/Jul/2020 09:01:29  
+                      Structure update: Successful
+02/Jul/2020 09:02:33            Solver: Successful
+02/Jul/2020 09:02:33       Solver time: 0 hours, 1 min., 4 sec.
+02/Jul/2020 09:02:33  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_l = 27
+02/Jul/2020 09:02:36  
+                      Structure update: Successful
+02/Jul/2020 09:03:43            Solver: Successful
+02/Jul/2020 09:03:43       Solver time: 0 hours, 1 min., 7 sec.
+02/Jul/2020 09:03:43  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_l = 27.5
+02/Jul/2020 09:03:46  
+                      Structure update: Successful
+02/Jul/2020 09:04:52            Solver: Successful
+02/Jul/2020 09:04:52       Solver time: 0 hours, 1 min., 6 sec.
+02/Jul/2020 09:04:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_l = 28
+02/Jul/2020 09:04:55  
+                      Structure update: Successful
+02/Jul/2020 09:06:00            Solver: Successful
+02/Jul/2020 09:06:00       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:06:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_l = 28.5
+02/Jul/2020 09:06:02  
+                      Structure update: Successful
+02/Jul/2020 09:07:06            Solver: Successful
+02/Jul/2020 09:07:06       Solver time: 0 hours, 1 min., 4 sec.
+02/Jul/2020 09:07:06  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_l = 29
+02/Jul/2020 09:07:09  
+                      Structure update: Successful
+02/Jul/2020 09:08:14            Solver: Successful
+02/Jul/2020 09:08:14       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:08:14  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_l = 29.5
+02/Jul/2020 09:08:16  
+                      Structure update: Successful
+02/Jul/2020 09:09:28            Solver: Successful
+02/Jul/2020 09:09:28       Solver time: 0 hours, 1 min., 12 sec.
+02/Jul/2020 09:09:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_l = 30
+02/Jul/2020 09:09:30  
+                      Structure update: Successful
+02/Jul/2020 09:10:41            Solver: Successful
+02/Jul/2020 09:10:41       Solver time: 0 hours, 1 min., 11 sec.
+02/Jul/2020 09:10:41  --------------------------------------------------------------------------
+
+02/Jul/2020 09:10:41  ==========================================================================
+                      Sequence: Sequence 2
+                      ==========================================================================
+
+02/Jul/2020 09:10:41  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_wall_l = 26
+02/Jul/2020 09:10:44  
+                      Structure update: Successful
+02/Jul/2020 09:11:49            Solver: Successful
+02/Jul/2020 09:11:49       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:11:49  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_wall_l = 26.5
+02/Jul/2020 09:11:51  
+                      Structure update: Successful
+02/Jul/2020 09:12:56            Solver: Successful
+02/Jul/2020 09:12:56       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:12:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_wall_l = 27
+02/Jul/2020 09:12:59  
+                      Structure update: Successful
+02/Jul/2020 09:14:04            Solver: Successful
+02/Jul/2020 09:14:04       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:14:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_wall_l = 27.5
+02/Jul/2020 09:14:06  
+                      Structure update: Successful
+02/Jul/2020 09:15:11            Solver: Successful
+02/Jul/2020 09:15:11       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:15:11  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_wall_l = 28
+02/Jul/2020 09:15:14  
+                      Structure update: Successful
+02/Jul/2020 09:16:19            Solver: Successful
+02/Jul/2020 09:16:19       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:16:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_wall_l = 28.5
+02/Jul/2020 09:16:22  
+                      Structure update: Successful
+02/Jul/2020 09:17:27            Solver: Successful
+02/Jul/2020 09:17:27       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:17:27  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_wall_l = 29
+02/Jul/2020 09:17:29  
+                      Structure update: Successful
+02/Jul/2020 09:18:34            Solver: Successful
+02/Jul/2020 09:18:34       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:18:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_wall_l = 29.5
+02/Jul/2020 09:18:37  
+                      Structure update: Successful
+02/Jul/2020 09:19:42            Solver: Successful
+02/Jul/2020 09:19:42       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:19:42  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         ant_wall_l = 30
+02/Jul/2020 09:19:45  
+                      Structure update: Successful
+02/Jul/2020 09:20:50            Solver: Successful
+02/Jul/2020 09:20:50       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:20:50  --------------------------------------------------------------------------
+
+02/Jul/2020 09:20:50  ==========================================================================
+                      Sequence: Sequence 3
+                      ==========================================================================
+
+02/Jul/2020 09:20:50  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         wg_l = 300
+02/Jul/2020 09:20:53  
+                      Structure update: Successful
+02/Jul/2020 09:21:54            Solver: Successful
+02/Jul/2020 09:21:54       Solver time: 0 hours, 1 min., 1 sec.
+02/Jul/2020 09:21:54  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         wg_l = 320
+02/Jul/2020 09:21:57  
+                      Structure update: Successful
+02/Jul/2020 09:23:00            Solver: Successful
+02/Jul/2020 09:23:00       Solver time: 0 hours, 1 min., 3 sec.
+02/Jul/2020 09:23:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         wg_l = 340
+02/Jul/2020 09:23:03  
+                      Structure update: Successful
+02/Jul/2020 09:24:07            Solver: Successful
+02/Jul/2020 09:24:07       Solver time: 0 hours, 1 min., 4 sec.
+02/Jul/2020 09:24:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         wg_l = 360
+02/Jul/2020 09:24:10  
+                      Structure update: Successful
+02/Jul/2020 09:25:15            Solver: Successful
+02/Jul/2020 09:25:15       Solver time: 0 hours, 1 min., 5 sec.
+02/Jul/2020 09:25:15  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         wg_l = 380
+02/Jul/2020 09:25:18  
+                      Structure update: Successful
+02/Jul/2020 09:26:25            Solver: Successful
+02/Jul/2020 09:26:25       Solver time: 0 hours, 1 min., 7 sec.
+02/Jul/2020 09:26:25  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         wg_l = 400
+02/Jul/2020 09:26:28  
+                      Structure update: Successful
+02/Jul/2020 09:27:36            Solver: Successful
+02/Jul/2020 09:27:36       Solver time: 0 hours, 1 min., 8 sec.
+02/Jul/2020 09:27:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         wg_l = 420
+02/Jul/2020 09:27:39  
+                      Structure update: Successful
+02/Jul/2020 09:28:48            Solver: Successful
+02/Jul/2020 09:28:48       Solver time: 0 hours, 1 min., 9 sec.
+02/Jul/2020 09:28:48  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         wg_l = 440
+02/Jul/2020 09:28:51  
+                      Structure update: Successful
+02/Jul/2020 09:30:02            Solver: Successful
+02/Jul/2020 09:30:02       Solver time: 0 hours, 1 min., 11 sec.
+02/Jul/2020 09:30:02  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         wg_l = 460
+02/Jul/2020 09:30:05  
+                      Structure update: Successful
+02/Jul/2020 09:31:16            Solver: Successful
+02/Jul/2020 09:31:16       Solver time: 0 hours, 1 min., 11 sec.
+02/Jul/2020 09:31:16  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         wg_l = 480
+02/Jul/2020 09:31:19  
+                      Structure update: Successful
+02/Jul/2020 09:32:36            Solver: Successful
+02/Jul/2020 09:32:36       Solver time: 0 hours, 1 min., 17 sec.
+02/Jul/2020 09:32:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         wg_l = 500
+02/Jul/2020 09:32:36  
+                      Simulation for this parameter combination has already been performed (Run ID found).
+02/Jul/2020 09:32:36  --------------------------------------------------------------------------
+02/Jul/2020 09:32:36  1 parameter combinations were skipped in the parameter sweep because they were already performed previously.
+02/Jul/2020 09:32:36  
+                      ==========================================================================
+                      Total evaluation time: 0 hours, 30 min., 58 sec.
+                      ==========================================================================

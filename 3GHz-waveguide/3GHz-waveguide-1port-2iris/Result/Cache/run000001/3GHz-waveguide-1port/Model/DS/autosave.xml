@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchematicTopology Version="2.3" Seed="1" Grid="25">
+    <BasePath>C:/SK_OneDrive/OneDrive/PhD/CST/3GHz-waveguide/3GHz-waveguide-1port/Model/DS</BasePath>
+    <Block ForeignId="153163608" Id="1" Class="MWSSCHEM">
+        <Size Height="150" Width="150"/>
+        <Pins>
+            <Pin X="75" Y="0" Index="0" BlockPosition="Right">
+                <Label>1 (input)</Label>
+            </Pin>
+            <Pin X="-75" Y="0" Index="0" BlockPosition="Left">
+                <Label>2 (output)</Label>
+            </Pin>
+        </Pins>
+        <Image Scale="AutoFit" FileName="../3D/Model.dib">
+            <Size Height="859" Width="1123"/>
+        </Image>
+        <Pos X="-44600" Y="-45100"/>
+        <ToolTip>transition.mod MWSSCHEM1</ToolTip>
+    </Block>
+</SchematicTopology>

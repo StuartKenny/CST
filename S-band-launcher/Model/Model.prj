@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.7 - Jul 05 2019 - ACIS 28.0.2 -
+[Author]
+CST
+[Mesh Cells]
+157,320
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:s-band-launcher.cst?1e44a8fb5f6118da26282d9726e678d9?22079:numberofparameters=7:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::dcoaxborder?dcoaxstub1?dstub1stub2?hstub1?hstub2?rcoax?rstubs
+[Comment]

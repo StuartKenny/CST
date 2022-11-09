@@ -1,0 +1,169 @@
+16/Jul/2020 21:24:46  *** Warning ***
+                      
+                      This software is licensed for educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:25:15  *** Warning ***
+                      
+                      This software is licensed for educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:25:16  
+                      Solver started at: 09:25 PM Thursday, 16. July 2020 (GMT Daylight Time)
+                      
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2019.7 Release from 2019-07-05 (change 706060)
+                      
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:25:16  ======================================================================
+                       Solver cycle: 1
+                      ======================================================================
+                      
+                      Stimulation at port 1 (mode 1) 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:25:16  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:25:32  Mesh statistics:
+                      
+                         Hexahedral mesh type: PBA [Version: default]
+                      
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 2
+                            Number of calculation domains used: 2
+                      
+                         Used point accuracy enhancement value: 75.00%.
+13/Jul/2020 15:15:18     current system memory usage reached 70%
+                         PBA fill limit: 99.00% (inverse)
+                         Used point accuracy enhancement value: 74.00%.
+13/Jul/2020 21:32:54     current system memory usage reached 65%
+16/Jul/2020 21:23:59     current system memory usage reached 70%
+
+16/Jul/2020 21:25:33  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:25:33  Using electric shielding for port 1, 2.
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:25:33  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: electric
+                        Xmax: electric
+                      
+                        Ymin: electric
+                        Ymax: expanded open, 4 Layer, depth 35.9791 mm
+                      
+                        Zmin: electric
+                        Zmax: electric
+                      
+                        PML-Type: Convolution PML
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:25:33  Frequency settings: 
+                      
+                        Fmin:         1
+                        Fmax:         3.7
+                        Nfsteps(lin): 10001
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:25:33  Waveguide boundaries:
+                      
+16/Jul/2020 21:25:33  Port: 1
+                      
+16/Jul/2020 21:25:33    ------------------------------- F-Calc 2.35 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      TEM         266           7.78e-006     54.3          0.0
+                        ----------------------------------------------------------------------------
+                      
+16/Jul/2020 21:25:33  Port: 2
+                      
+16/Jul/2020 21:25:33    ------------------------------- F-Calc 2.35 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        2      1      TEM         266           7.78e-006     54.3          0.0
+                        ----------------------------------------------------------------------------
+                      
+16/Jul/2020 21:25:34  Field update statistics:
+                      
+                        Number of components in total: 	336338
+                        Number of TST elements:		112
+                        Number of lossy metal components:	15323
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:26:01  
+                      --------------------------------------------------------------------------------
+16/Jul/2020 21:26:01  Steady state energy criterion met, solver finished successfully.
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:26:01  Frequency domain results normalized to default signal.
+                      
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:26:01  
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        Matrices calc.      196289                        2842773      2687500      
+                        Solver run total    94548                         2911980      2706360      
+                        ----------------------------------------------------------------------------
+                      
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+                      
+                        Hardware:
+                           Computer name:                 	elecpc375 
+                      
+                           Number of CPU threads:               2
+                           Hardware info:                  	Hardware Accelerator Device not activated
+                      
+                        Number of mesh cells:             	53760
+                        Excitation duration:              	2.63299907e+000 ns 
+                        Calculation time for excitation:  	1 	s
+                        Number of calculated pulse widths:	19.8136 
+                        Steady state accuracy limit:      	-25	dB 
+                        Simulated number of time steps:   	23400 
+                        Maximum number of time steps:     	23620 
+                        Time step width:
+                           without subcycles:             	2.22945077e-003 ns
+                           used:                          	2.22945077e-003 ns
+                      
+                        Matrix calculation time:          	16 	s
+                        Solver setup time:                	2 	s
+                        Solver loop time:                 	24 	s
+                        Solver post processing time:      	1 	s
+                                                          	------------
+                        Total solver time:                	43 	s
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:26:01  
+                        Adaptive port meshing time:          	29     	s
+                        Total solver time (all cycles):      	43     	s
+                        solver initialization and clean-up:  	2      	s
+                                                             	------------
+                        Total simulation time:               	74     	s  ( = 0 h, 1 m, 14 s )
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:26:02  Solver finished at: 09:26 PM Thursday, 16. July 2020
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+16/Jul/2020 21:26:03  Parametric 1D storage is switched off.
+                      
+                      ------------------------------------------------------------------------------

@@ -1,0 +1,188 @@
+27/Jul/2020 16:15:41  *** Warning ***
+                      
+                      Subvolume monitor h-field @ 100mm is outside the calculation domain and is
+                      deactivated.
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:15:41  *** Warning ***
+                      
+                      This software is licensed for educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:10  *** Warning ***
+                      
+                      This software is licensed for educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:10  
+                      Solver started at: 04:16 PM Monday, 27. July 2020 (GMT Daylight Time)
+                      
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2019.7 Release from 2019-07-05 (change 706060)
+                      
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:10  ======================================================================
+                       Solver cycle: 1
+                      ======================================================================
+                      
+                      Stimulation at port 1 (mode 1) 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:10  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:29  Mesh statistics:
+                      
+                         Hexahedral mesh type: PBA [Version: default]
+                      
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 1
+                            Number of calculation domains used: 1
+                      
+                         Used point accuracy enhancement value: 69.00%.
+25/Jul/2020 11:46:09     current system memory usage reached 65%
+                         PBA fill limit: 99.00% (inverse)
+25/Jul/2020 11:46:07     current system memory usage reached 65%
+25/Jul/2020 11:46:28     current system memory usage reached 70%
+25/Jul/2020 11:52:21     current system memory usage reached 70%
+                         Used point accuracy enhancement value: 70.00%.
+25/Jul/2020 11:59:07     current system memory usage reached 60%
+25/Jul/2020 11:59:30     current system memory usage reached 65%
+25/Jul/2020 11:59:31     current system memory usage reached 65%
+25/Jul/2020 12:02:08     current system memory usage reached 60%
+25/Jul/2020 12:02:07     current system memory usage reached 60%
+25/Jul/2020 12:03:48     current system memory usage reached 55%
+25/Jul/2020 12:05:19     current system memory usage reached 55%
+                         Used point accuracy enhancement value: 75.00%.
+27/Jul/2020 14:50:51     current system memory usage reached 55%
+27/Jul/2020 14:51:53     current system memory usage reached 55%
+27/Jul/2020 14:53:12     current system memory usage reached 55%
+27/Jul/2020 16:10:26     current system memory usage reached 55%
+
+27/Jul/2020 16:16:29  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:29  Using electric shielding for port 1, 2.
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:29  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: electric
+                        Xmax: electric
+                      
+                        Ymin: electric
+                        Ymax: expanded open, 4 Layer, depth 33.5928 mm
+                      
+                        Zmin: electric
+                        Zmax: electric
+                      
+                        PML-Type: Convolution PML
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:29  Frequency settings: 
+                      
+                        Fmin:         1
+                        Fmax:         4
+                        Nfsteps(lin): 1001
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:29  Waveguide boundaries:
+                      
+27/Jul/2020 16:16:29  Port: 1
+                      
+27/Jul/2020 16:16:30    -------------------------------- F-Calc 2.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      TEM         266           7.79e-006     54.3          0.0
+                        ----------------------------------------------------------------------------
+                      
+27/Jul/2020 16:16:30  Port: 2
+                      
+27/Jul/2020 16:16:30    -------------------------------- F-Calc 2.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        2      1      TEM         266           7.79e-006     54.3          0.0
+                        ----------------------------------------------------------------------------
+                      
+27/Jul/2020 16:16:30  Field update statistics:
+                      
+                        Number of components in total: 	215669
+                        Number of TST elements:		112
+                        Number of lossy metal components:	10080
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:36  
+                      --------------------------------------------------------------------------------
+27/Jul/2020 16:16:36  Steady state energy criterion met, solver finished successfully.
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:36  Frequency domain results normalized to default signal.
+                      
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:36  
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        Matrices calc.      114257                        4152343      4054687      
+                        Solver run total    47944                         4186964      4055412      
+                        ----------------------------------------------------------------------------
+                      
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+                      
+                        Hardware:
+                           Computer name:                 	elecpc375 
+                      
+                           Number of CPU threads:               2
+                           Hardware info:                  	Hardware Accelerator Device not activated
+                      
+                        Number of mesh cells:             	34336
+                        Excitation duration:              	2.36969917e+000 ns 
+                        Calculation time for excitation:  	1 	s
+                        Number of calculated pulse widths:	5.2868 
+                        Steady state accuracy limit:      	-25	dB 
+                        Simulated number of time steps:   	6160 
+                        Maximum number of time steps:     	23303 
+                        Time step width:
+                           without subcycles:             	2.03378603e-003 ns
+                           used:                          	2.03378603e-003 ns
+                      
+                        Matrix calculation time:          	18 	s
+                        Solver setup time:                	2 	s
+                        Solver loop time:                 	4 	s
+                        Solver post processing time:      	0 	s
+                                                          	------------
+                        Total solver time:                	24 	s
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:36  
+                        Adaptive port meshing time:          	28     	s
+                        Total solver time (all cycles):      	24     	s
+                        solver initialization and clean-up:  	2      	s
+                                                             	------------
+                        Total simulation time:               	54     	s
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:36  Solver finished at: 04:16 PM Monday, 27. July 2020
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+27/Jul/2020 16:16:37  Parametric 1D storage is switched off.
+                      
+                      ------------------------------------------------------------------------------

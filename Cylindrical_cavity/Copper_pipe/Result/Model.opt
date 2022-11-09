@@ -1,0 +1,205 @@
+Optimizer Settings:
+
+Optimizer type: Trust Region Framework
+		Type: Local linear models on primary data
+.		Min trust region size (in unit cube): 0.01
+		Sigma (measure for globalness):0.2
+			Finite difference delta: 0.01
+			Tabu list vicinity radius: 0
+			Initial exploration threshold: 0
+		Surrogate optimization strategy: Nelder Mead Simplex Algorithm
+
+---------------------------------------------------------------------------------------
+
+Parameters used for optimization:
+---------------------------------------------------------------------------------------
+| name                    |          min |          max |      initial |
+---------------------------------------------------------------------------------------
+| d                       |           45 |          250 |           45 |
+| dia                     |           51 |          219 |           54 |
+---------------------------------------------------------------------------------------
+
+Goal functionals used for optimization:
+
+0D: 1D Results\Mode Frequencies\Mode 1: operate by "=" with target 3035732439, weighted: 1.0
+
+________________________________________________________________________
+
+Extracted data from previously calculated system for parameters:
+
+	d = 45 
+	dia = 54 
+
+(Corresponding to run ID: 16)
+
+	Initial goal function value  = 3.03573e+009 (Solver)
+	Best goal function value   = 3.03573e+009 (Solver)
+	Last goal function value   = 3.03573e+009 (Solver)
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	d = 47.05 
+	dia = 54 
+
+(Corresponding to run ID: 17)
+
+
+Created complete backup of the project. (1.125 sec)
+
+	Initial goal function value  = 3.03573e+009 (Solver)
+	Best goal function value   = 3.03573e+009 (Solver)
+	Last goal function value   = 3.03573e+009 (Solver)
+	Solver time = 00:00:11 h
+	Parameter update time   = 00:00:01 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	d = 45 
+	dia = 55.68 
+
+(Corresponding to run ID: 18)
+
+	Initial goal function value  = 3.03573e+009 (Solver)
+	Best goal function value   = 3.03573e+009 (Solver)
+	Last goal function value   = 3.03573e+009 (Solver)
+	Solver time = 00:00:11 h
+	Parameter update time   = 00:00:01 h
+
+________________________________________________________________________
+
+Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 3.03573e+009 (current anchor: 3.03573e+009)
+
+
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	d = 46.64 
+	dia = 51 
+
+(Corresponding to run ID: 19)
+
+
+Created complete backup of the project. (1.188 sec)
+
+	Initial goal function value  = 3.03573e+009 (Solver)
+	Best goal function value   = 3.03573e+009 (Solver)
+	Last goal function value   = 3.03573e+009 (Solver)
+	Solver time = 00:00:12 h
+	Parameter update time   = 00:00:01 h
+
+________________________________________________________________________
+
+Optimizer is creating a backup of the project including results.
+
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	d = 48.69 
+	dia = 51 
+
+(Corresponding to run ID: 20)
+
+
+Created complete backup of the project. (1.141 sec)
+
+	Initial goal function value  = 3.03573e+009 (Solver)
+	Best goal function value   = 3.03573e+009 (Solver)
+	Last goal function value   = 3.03573e+009 (Solver)
+	Solver time = 00:00:11 h
+	Parameter update time   = 00:00:01 h
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	d = 46.64 
+	dia = 52.68 
+
+(Corresponding to run ID: 21)
+
+	Initial goal function value  = 3.03573e+009 (Solver)
+	Best goal function value   = 3.03573e+009 (Solver)
+	Last goal function value   = 3.03573e+009 (Solver)
+	Solver time = 00:00:12 h
+	Parameter update time   = 00:00:01 h
+
+________________________________________________________________________
+
+Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 3.03573e+009 (current anchor: 3.03573e+009)
+
+
+
+________________________________________________________________________
+
+Solved problem for parameters:
+
+	d = 45.5986 
+	dia = 51 
+
+(Corresponding to run ID: 22)
+
+	Initial goal function value  = 3.03573e+009 (Solver)
+	Best goal function value   = 3.03573e+009 (Solver)
+	Last goal function value   = 3.03573e+009 (Solver)
+	Solver time = 00:00:10 h
+	Parameter update time   = 00:00:02 h
+
+========================================================================
+
+Recovered data for best parameters:
+
+	d = 48.69 
+	dia = 51 
+
+(Corresponding to run ID: 20)
+
+
+Result data recovered from project backup.
+
+	Initial goal function value  = 3.03573e+009 (Solver)
+	Best goal function value   = 3.03573e+009 (Solver)
+	Last goal function value   = 3.03573e+009 (Solver)
+
+________________________________________________________________________
+
+The best parameter set is very close to the boundaries defined by the minimum and maximum settings.
+A better parameter set may be found if you change the range of the corresponding parameters.
+
+
+________________________________________________________________________
+
+	Total solver time           = 00:01:07 h (6 solver runs)
+	Total data recovery time    = 00:00:01 h (2 loaded)
+	Total backup project time   = 00:00:03 h (3 backups)
+	Total parameter update time = 00:00:07 h
+	Total optimizer time        = 00:01:21 h (8 evaluations)
+
+
+________________________________________________________________________
+
+Optimization successful. Best parameter set is stored.
+

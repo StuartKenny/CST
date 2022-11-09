@@ -1,0 +1,202 @@
+07/Aug/2020 17:14:20  Optimizer Settings:
+                      
+                      Optimizer type: Trust Region Framework
+                      		Type: Local linear models on primary data
+                      .		Min trust region size (in unit cube): 0.01
+                      		Sigma (measure for globalness): 0.2
+                      			Finite difference delta: 0.01
+                      			Tabu list vicinity radius: 0
+                      			Initial exploration threshold: 0
+                      		Surrogate optimization strategy: Nelder Mead Simplex Algorithm
+                      
+                      ---------------------------------------------------------------------------------------
+                      
+                      Parameters used for optimization:
+                      ---------------------------------------------------------------------------------------
+                      | name                    |          min |          max |      initial |
+                      ---------------------------------------------------------------------------------------
+                      | protrusion              |            0 |           50 |           10 |
+                      ---------------------------------------------------------------------------------------
+                      
+                      Goal functionals used for optimization:
+                      
+                      0D: 1D Results\Mode Frequencies\Mode 1: operate by "=" with target 3035000000, weighted: 1.0
+07/Aug/2020 17:14:20  
+                      ________________________________________________________________________
+07/Aug/2020 17:14:20  
+                      Extracted data from previously calculated system for parameters:
+
+07/Aug/2020 17:14:20  	protrusion = 10 
+07/Aug/2020 17:14:20  
+                      (Corresponding to run ID: 5)
+07/Aug/2020 17:14:20  
+07/Aug/2020 17:14:20  	Initial goal function value  = 3.035e+09 (Solver)
+07/Aug/2020 17:14:20  	Best goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:14:20  	Last goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:22:43  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+07/Aug/2020 17:22:46  
+                      ________________________________________________________________________
+07/Aug/2020 17:22:46  
+                      Solved problem for parameters:
+
+07/Aug/2020 17:22:46  	protrusion = 10.5 
+07/Aug/2020 17:22:46  
+07/Aug/2020 17:22:46  
+                      Created complete backup of the project. (2.891 sec)
+
+07/Aug/2020 17:22:46  	Initial goal function value  = 3.035e+09 (Solver)
+07/Aug/2020 17:22:46  	Best goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:22:46  	Last goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:22:46  	Solver time = 00:08:21 h
+07/Aug/2020 17:22:46  	Parameter update time   = 00:00:02 h
+07/Aug/2020 17:22:46  
+                      ________________________________________________________________________
+                      
+                      Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 3.035e+09 (current anchor: 3.035e+09)
+                      The distance from the current anchor (in the Unit Cube) to the prediction is: 0.4
+
+
+07/Aug/2020 17:31:42  
+                      ________________________________________________________________________
+07/Aug/2020 17:31:42  
+                      Solved problem for parameters:
+
+07/Aug/2020 17:31:42  	protrusion = 30 
+07/Aug/2020 17:31:42  
+07/Aug/2020 17:31:42  	Initial goal function value  = 3.035e+09 (Solver)
+07/Aug/2020 17:31:42  	Best goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:31:42  	Last goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:31:42  	Solver time = 00:08:55 h
+07/Aug/2020 17:31:42  	Parameter update time   = 00:00:01 h
+07/Aug/2020 17:31:42  
+                      ________________________________________________________________________
+                      
+                      Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 3.035e+09 (current anchor: 3.035e+09)
+                      The distance from the current anchor (in the Unit Cube) to the prediction is: 0.133333
+
+
+07/Aug/2020 17:40:53  
+                      ________________________________________________________________________
+07/Aug/2020 17:40:53  
+                      Solved problem for parameters:
+
+07/Aug/2020 17:40:53  	protrusion = 17.1667 
+07/Aug/2020 17:40:53  
+07/Aug/2020 17:40:53  	Initial goal function value  = 3.035e+09 (Solver)
+07/Aug/2020 17:40:53  	Best goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:40:53  	Last goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:40:53  	Solver time = 00:09:10 h
+07/Aug/2020 17:40:53  	Parameter update time   = 00:00:01 h
+07/Aug/2020 17:40:53  
+                      ________________________________________________________________________
+                      
+                      Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 3.035e+09 (current anchor: 3.035e+09)
+                      The distance from the current anchor (in the Unit Cube) to the prediction is: 0.0444444
+
+
+07/Aug/2020 17:49:30  
+                      ________________________________________________________________________
+07/Aug/2020 17:49:30  
+                      Solved problem for parameters:
+
+07/Aug/2020 17:49:30  	protrusion = 12.7222 
+07/Aug/2020 17:49:30  
+07/Aug/2020 17:49:30  	Initial goal function value  = 3.035e+09 (Solver)
+07/Aug/2020 17:49:30  	Best goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:49:30  	Last goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:49:30  	Solver time = 00:08:35 h
+07/Aug/2020 17:49:30  	Parameter update time   = 00:00:02 h
+07/Aug/2020 17:49:30  
+                      ________________________________________________________________________
+                      
+                      Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 3.035e+09 (current anchor: 3.035e+09)
+                      The distance from the current anchor (in the Unit Cube) to the prediction is: 0.0148148
+
+
+07/Aug/2020 17:58:12  
+                      ________________________________________________________________________
+                      
+                      Optimizer is creating a backup of the project including results.
+
+
+
+07/Aug/2020 17:58:16  
+                      ________________________________________________________________________
+07/Aug/2020 17:58:16  
+                      Solved problem for parameters:
+
+07/Aug/2020 17:58:16  	protrusion = 11.2407 
+07/Aug/2020 17:58:16  
+07/Aug/2020 17:58:16  
+                      Created complete backup of the project. (3.062 sec)
+
+07/Aug/2020 17:58:16  	Initial goal function value  = 3.035e+09 (Solver)
+07/Aug/2020 17:58:16  	Best goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:58:16  	Last goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 17:58:16  	Solver time = 00:08:40 h
+07/Aug/2020 17:58:16  	Parameter update time   = 00:00:02 h
+07/Aug/2020 18:04:10  
+                      ________________________________________________________________________
+07/Aug/2020 18:04:10  
+                      Solved problem for parameters:
+
+07/Aug/2020 18:04:10  	protrusion = 11.7407 
+07/Aug/2020 18:04:10  
+07/Aug/2020 18:04:10  	Initial goal function value  = 3.035e+09 (Solver)
+07/Aug/2020 18:04:10  	Best goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 18:04:10  	Last goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 18:04:10  	Solver time = 00:05:53 h
+07/Aug/2020 18:04:10  	Parameter update time   = 00:00:01 h
+07/Aug/2020 18:04:10  
+                      ________________________________________________________________________
+                      
+                      Trust Region Framework: Optimization of trust region model yields a prediction of a goal of 3.035e+09 (current anchor: 3.035e+09)
+                      The distance from the current anchor (in the Unit Cube) to the prediction is: 0.0148148
+
+
+07/Aug/2020 18:09:30  
+                      ________________________________________________________________________
+07/Aug/2020 18:09:30  
+                      Solved problem for parameters:
+
+07/Aug/2020 18:09:30  	protrusion = 10.5 
+07/Aug/2020 18:09:30  
+07/Aug/2020 18:09:30  	Initial goal function value  = 3.035e+09 (Solver)
+07/Aug/2020 18:09:30  	Best goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 18:09:30  	Last goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 18:09:30  	Solver time = 00:05:18 h
+07/Aug/2020 18:09:30  	Parameter update time   = 00:00:02 h
+07/Aug/2020 18:09:34  
+                      ========================================================================
+07/Aug/2020 18:09:34  
+                      Recovered data for best parameters:
+
+07/Aug/2020 18:09:34  	protrusion = 11.2407 
+07/Aug/2020 18:09:34  
+07/Aug/2020 18:09:34  
+                      Result data recovered from project backup.
+
+07/Aug/2020 18:09:34  	Initial goal function value  = 3.035e+09 (Solver)
+07/Aug/2020 18:09:34  	Best goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 18:09:34  	Last goal function value   = 3.035e+09 (Solver)
+07/Aug/2020 18:09:34  
+                      ________________________________________________________________________
+
+
+07/Aug/2020 18:09:34  	Total solver time           = 00:54:52 h (7 solver runs)
+07/Aug/2020 18:09:34  	Total data recovery time    = 00:00:04 h (2 loaded)
+07/Aug/2020 18:09:34  	Total backup project time   = 00:00:07 h (2 backups)
+07/Aug/2020 18:09:34  	Total parameter update time = 00:00:11 h
+07/Aug/2020 18:09:34  	Total optimizer time        = 00:55:14 h (9 evaluations)
+
+07/Aug/2020 18:09:34  
+                      ________________________________________________________________________
+                      
+                      Optimization successfully improved the goal value. Best parameter set is stored.
+
