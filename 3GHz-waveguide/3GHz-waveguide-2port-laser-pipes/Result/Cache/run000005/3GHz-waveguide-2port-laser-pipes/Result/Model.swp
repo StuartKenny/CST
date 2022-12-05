@@ -1,0 +1,57 @@
+11/Nov/2022 14:19:37  ==========================================================================
+                      Sequence: Sequence 2
+                      ==========================================================================
+
+11/Nov/2022 14:19:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 0.5
+11/Nov/2022 14:19:39  
+                      Structure update: Successful
+11/Nov/2022 14:34:18            Solver: Successful
+11/Nov/2022 14:34:18       Solver time: 0 hours, 14 min., 39 sec.
+11/Nov/2022 14:34:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 3
+11/Nov/2022 14:34:21  
+                      Structure update: Successful
+11/Nov/2022 15:03:44            Solver: Successful
+11/Nov/2022 15:03:44       Solver time: 0 hours, 29 min., 23 sec.
+11/Nov/2022 15:03:44  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 6
+11/Nov/2022 15:03:46  
+                      Structure update: Successful
+11/Nov/2022 15:31:17            Solver: Successful
+11/Nov/2022 15:31:17       Solver time: 0 hours, 27 min., 31 sec.
+11/Nov/2022 15:31:17  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 10
+11/Nov/2022 15:31:20  
+                      Structure update: Successful
+11/Nov/2022 15:57:52            Solver: Successful
+11/Nov/2022 15:57:52       Solver time: 0 hours, 26 min., 32 sec.
+11/Nov/2022 15:57:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 12
+11/Nov/2022 15:57:54  
+                      Structure update: Successful
+11/Nov/2022 16:21:19            Solver: Successful
+11/Nov/2022 16:21:19       Solver time: 0 hours, 23 min., 24 sec.
+11/Nov/2022 16:21:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         beam_dia = 20
+11/Nov/2022 16:21:22  
+                      Structure update: Successful
+11/Nov/2022 16:59:27            Solver: Successful
+11/Nov/2022 16:59:27       Solver time: 0 hours, 38 min., 5 sec.
+11/Nov/2022 16:59:27  --------------------------------------------------------------------------
+11/Nov/2022 16:59:27  
+                      ==========================================================================
+                      Total evaluation time: 2 hours, 39 min., 34 sec.
+                      ==========================================================================

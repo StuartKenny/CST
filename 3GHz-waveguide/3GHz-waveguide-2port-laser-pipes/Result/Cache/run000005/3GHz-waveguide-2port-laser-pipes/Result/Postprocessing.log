@@ -1,0 +1,23 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 04:59 PM Friday, 11. November 2022
+
+  Evaluating 'optical_path_volumetric h-field (f=3.035) (1)': 1 s
+  Evaluating 'horiz_cell_dia_face_volumetric h-field (f=3.035) (1)': 0 s
+  Evaluating 'horizontal_cell_dia_mid_volumetric h-field (f=3.035) (1)': 0 s
+  Evaluating 'vert_cell_dia_face_volumetric h-field (f=3.035) (1)': 0 s
+  Evaluating 'vertical_cell_dia_mid_volumetric h-field (f=3.035) (1)': 0 s
+
+  Total time: 5 s  ( = 0 h, 0 m, 5 s )
+
+Template based postprocessing finished at: 04:59 PM Friday, 11. November 2022
+----------------------------------------------------------------------------------------

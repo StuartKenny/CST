@@ -1,0 +1,23 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Transient",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 2": [
+                {
+                    "type": "arbitrary",
+                    "values": "0.5;3;6;10;12;20",
+                    "varname": "beam_dia"
+                },
+                {
+                    "index": 1
+                }
+            ]
+        },
+        "version": 1
+    }
+}

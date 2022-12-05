@@ -1,0 +1,44 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Transient",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 2": [
+                {
+                    "type": "arbitrary",
+                    "values": "0.5;3;6;10;12;20",
+                    "varname": "front_beam_dia"
+                },
+                {
+                    "from": "3",
+                    "samples": "1",
+                    "to": "3",
+                    "type": "linear",
+                    "varname": "back_beam_dia"
+                },
+                {
+                    "from": "0",
+                    "samples": "1",
+                    "to": "0",
+                    "type": "linear",
+                    "varname": "back_pipe_ratio"
+                },
+                {
+                    "from": "0",
+                    "samples": "3",
+                    "to": "4",
+                    "type": "linear",
+                    "varname": "front_pipe_ratio"
+                },
+                {
+                    "index": 1
+                }
+            ]
+        },
+        "version": 1
+    }
+}

@@ -1,0 +1,208 @@
+12/Nov/2022 15:38:44  Some of the upcoming parameter combinations were already performed previously and will be skipped.
+                      Potential changes in the result settings like Template Based Post Processing are not taken into account. The feature can be deactivated via "Parameter Sweep -> Options..."
+12/Nov/2022 15:38:44  ==========================================================================
+                      Sequence: Sequence 2
+                      ==========================================================================
+
+12/Nov/2022 15:38:44  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 0.5
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 0
+12/Nov/2022 15:38:44  
+                      Simulation for this parameter combination has already been performed (Run ID found).
+12/Nov/2022 15:38:44  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 0.5
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 2
+12/Nov/2022 15:38:46  
+                      Structure update: Successful
+12/Nov/2022 16:21:12            Solver: Successful
+12/Nov/2022 16:21:12       Solver time: 0 hours, 42 min., 26 sec.
+12/Nov/2022 16:21:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 0.5
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 4
+12/Nov/2022 16:21:15  
+                      Structure update: Successful
+12/Nov/2022 17:01:29            Solver: Successful
+12/Nov/2022 17:01:29       Solver time: 0 hours, 40 min., 14 sec.
+12/Nov/2022 17:01:29  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 3
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 0
+12/Nov/2022 17:01:32  
+                      Structure update: Successful
+12/Nov/2022 17:19:12            Solver: Successful
+12/Nov/2022 17:19:12       Solver time: 0 hours, 17 min., 40 sec.
+12/Nov/2022 17:19:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 3
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 2
+12/Nov/2022 17:19:15  
+                      Structure update: Successful
+12/Nov/2022 17:50:41            Solver: Successful
+12/Nov/2022 17:50:41       Solver time: 0 hours, 31 min., 26 sec.
+12/Nov/2022 17:50:41  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 3
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 4
+12/Nov/2022 17:50:44  
+                      Structure update: Successful
+12/Nov/2022 18:23:07            Solver: Successful
+12/Nov/2022 18:23:07       Solver time: 0 hours, 32 min., 23 sec.
+12/Nov/2022 18:23:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 6
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 0
+12/Nov/2022 18:23:10  
+                      Structure update: Successful
+12/Nov/2022 18:42:28            Solver: Successful
+12/Nov/2022 18:42:28       Solver time: 0 hours, 19 min., 18 sec.
+12/Nov/2022 18:42:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 6
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 2
+12/Nov/2022 18:42:31  
+                      Structure update: Successful
+12/Nov/2022 19:03:03            Solver: Successful
+12/Nov/2022 19:03:03       Solver time: 0 hours, 20 min., 32 sec.
+12/Nov/2022 19:03:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 6
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 4
+12/Nov/2022 19:03:06  
+                      Structure update: Successful
+12/Nov/2022 19:24:22            Solver: Successful
+12/Nov/2022 19:24:22       Solver time: 0 hours, 21 min., 16 sec.
+12/Nov/2022 19:24:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 10
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 0
+12/Nov/2022 19:24:25  
+                      Structure update: Successful
+12/Nov/2022 19:45:08            Solver: Successful
+12/Nov/2022 19:45:08       Solver time: 0 hours, 20 min., 43 sec.
+12/Nov/2022 19:45:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 10
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 2
+12/Nov/2022 19:45:11  
+                      Structure update: Successful
+12/Nov/2022 20:07:42            Solver: Successful
+12/Nov/2022 20:07:42       Solver time: 0 hours, 22 min., 31 sec.
+12/Nov/2022 20:07:42  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 10
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 4
+12/Nov/2022 20:07:45  
+                      Structure update: Successful
+12/Nov/2022 20:32:38            Solver: Successful
+12/Nov/2022 20:32:38       Solver time: 0 hours, 24 min., 53 sec.
+12/Nov/2022 20:32:38  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 12
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 0
+12/Nov/2022 20:32:41  
+                      Structure update: Successful
+12/Nov/2022 21:04:32            Solver: Successful
+12/Nov/2022 21:04:32       Solver time: 0 hours, 31 min., 51 sec.
+12/Nov/2022 21:04:32  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 12
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 2
+12/Nov/2022 21:04:35  
+                      Structure update: Successful
+12/Nov/2022 22:05:53            Solver: Successful
+12/Nov/2022 22:05:53       Solver time: 1 hours, 1 min., 18 sec.
+12/Nov/2022 22:05:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 12
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 4
+12/Nov/2022 22:05:56  
+                      Structure update: Successful
+12/Nov/2022 22:49:11            Solver: Successful
+12/Nov/2022 22:49:11       Solver time: 0 hours, 43 min., 15 sec.
+12/Nov/2022 22:49:11  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 20
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 0
+12/Nov/2022 22:49:14  
+                      Structure update: Successful
+12/Nov/2022 23:21:22            Solver: Successful
+12/Nov/2022 23:21:22       Solver time: 0 hours, 32 min., 8 sec.
+12/Nov/2022 23:21:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 20
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 2
+12/Nov/2022 23:21:25  
+                      Structure update: Successful
+13/Nov/2022 00:04:04            Solver: Successful
+13/Nov/2022 00:04:04       Solver time: 0 hours, 42 min., 39 sec.
+13/Nov/2022 00:04:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         front_beam_dia = 20
+                         back_beam_dia = 3
+                         back_pipe_ratio = 0
+                         front_pipe_ratio = 4
+13/Nov/2022 00:04:07  
+                      Structure update: Successful
+13/Nov/2022 00:49:23            Solver: Successful
+13/Nov/2022 00:49:23       Solver time: 0 hours, 45 min., 16 sec.
+13/Nov/2022 00:49:23  --------------------------------------------------------------------------
+13/Nov/2022 00:49:23  1 parameter combinations were skipped in the parameter sweep because they were already performed previously.
+13/Nov/2022 00:49:23  
+                      ==========================================================================
+                      Total evaluation time: 9 hours, 9 min., 49 sec.
+                      ==========================================================================

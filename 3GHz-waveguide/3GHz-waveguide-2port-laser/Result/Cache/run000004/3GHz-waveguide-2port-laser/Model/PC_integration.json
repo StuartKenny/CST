@@ -1,0 +1,74 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "wg_l",
+         "type": "float",
+         "value": 328.06233895882
+      },
+      {
+         "name": "wg_w",
+         "type": "float",
+         "value": 95.2
+      },
+      {
+         "name": "wg_h",
+         "type": "float",
+         "value": 38.1
+      },
+      {
+         "name": "wg_wall",
+         "type": "float",
+         "value": 3.2
+      },
+      {
+         "name": "ant_l_tx",
+         "type": "float",
+         "value": 20.04
+      },
+      {
+         "name": "ant_r",
+         "type": "float",
+         "value": 0.635
+      },
+      {
+         "name": "coax_r",
+         "type": "float",
+         "value": 2.0575
+      },
+      {
+         "name": "ant_wall_l_tx",
+         "type": "float",
+         "value": 24.3
+      },
+      {
+         "name": "ant_l_rx",
+         "type": "float",
+         "value": 19.84
+      },
+      {
+         "name": "ant_wall_l_rx",
+         "type": "float",
+         "value": 24.3
+      },
+      {
+         "name": "cell_dia",
+         "type": "float",
+         "value": 25.0
+      },
+      {
+         "name": "cell_length",
+         "type": "float",
+         "value": 25.0
+      },
+      {
+         "name": "beam_dia",
+         "type": "float",
+         "value": 20.0
+      }
+   ],
+   "outputVariables": []
+}

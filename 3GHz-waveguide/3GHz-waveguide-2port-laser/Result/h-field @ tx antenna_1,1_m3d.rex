@@ -15,6 +15,6 @@
   <ResultDataType complex="1" timedomain="0" vector="1"/>
   <SimulationDomain min="-3.200000047684 -22.25 -50.79999923706" max="331.2623291016 55.22924423218 50.79999923706"/>
   <PlotSettings Clipping="Possible" Plot="4" ignore_symmetry="0" deformation="0"/>
-  <SubVolume min_pos="24.29999923706 -19.04999923706 -47.59999847412" max_pos="24.29999923706 19.04999923706 47.59999847412" min_index="8202" max_index="131145" is_cropped="0" sub_folder=""/>
+  <SubVolume min_pos="24.29999923706 -19.04999923706 -47.59999847412" max_pos="24.29999923706 19.04999923706 47.59999847412" min_index="6972" max_index="111026" is_cropped="0" sub_folder=""/>
   <Source type="SOLVER"/>
 </MetaResultFile>

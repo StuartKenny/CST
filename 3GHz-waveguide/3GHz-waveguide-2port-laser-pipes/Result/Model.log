@@ -1,0 +1,239 @@
+15/Nov/2022 11:49:54  *** Warning ***
+                      
+                      This software is licensed for educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 11:50:36  *** Warning ***
+                      
+                      This software is licensed for educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 11:50:36  
+                      Solver started at: 11:50 AM Tuesday, 15. November 2022 (GMT Standard Time)
+                      
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2019.7 Release from 2019-07-05 (change 706060)
+                      
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+15/Nov/2022 11:50:36  ======================================================================
+                       Solver cycle: 1
+                      ======================================================================
+                      
+                      Stimulation at port 1 (mode 1) 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 11:50:36  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 11:51:15  Mesh statistics:
+                      
+                         Hexahedral mesh type: PBA [Version: default]
+                      
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 2
+                            Number of calculation domains used: 2
+                      
+                         Used point accuracy enhancement value: 67.00%.
+                         PBA fill limit: 99.00% (inverse)
+                         Used point accuracy enhancement value: 62.00%.
+                         PBA fill limit: 98.81% (inverse)
+                         Used point accuracy enhancement value: 55.00%.
+                         Used point accuracy enhancement value: 75.00%.
+                         Used point accuracy enhancement value: 59.00%.
+                         Used point accuracy enhancement value: 48.00%.
+                         Used point accuracy enhancement value: 31.00%.
+                         PBA fill limit: 98.63% (inverse)
+                         Used point accuracy enhancement value: 23.00%.
+                         PBA fill limit: 98.44% (inverse)
+                         Used point accuracy enhancement value: 12.00%.
+                         PBA fill limit: 98.25% (inverse)
+                         Used point accuracy enhancement value: 6.00%.
+                         PBA fill limit: 98.07% (inverse)
+                         Used point accuracy enhancement value: 26.00%.
+                         Used point accuracy enhancement value: 24.00%.
+12/Nov/2022 16:21:58     current system memory usage reached 80%
+                         Used point accuracy enhancement value: 28.00%.
+                         Used point accuracy enhancement value: 21.00%.
+                         Used point accuracy enhancement value: 15.00%.
+                         Used point accuracy enhancement value: 9.00%.
+                         Used point accuracy enhancement value: 7.00%.
+                         Used point accuracy enhancement value: 3.00%.
+                         Used point accuracy enhancement value: 1.00%.
+                         PBA fill limit: 97.88% (inverse)
+                         Used point accuracy enhancement value: 0.00%.
+                         PBA fill limit: 97.69% (inverse)
+                         PBA fill limit: 97.51% (inverse)
+                         PBA fill limit: 97.13% (inverse)
+14/Nov/2022 13:21:31     current system memory usage reached 80%
+14/Nov/2022 13:21:34     current system memory usage reached 80%
+14/Nov/2022 13:21:59     current system memory usage reached 80%
+14/Nov/2022 13:21:58     current system memory usage reached 80%
+                         Used point accuracy enhancement value: 19.00%.
+
+10/Nov/2022 11:10:45     *** Warning ***  current system memory usage reached 90%
+
+10/Nov/2022 11:10:51     *** Warning ***  current system memory usage reached 90%
+
+11/Nov/2022 15:04:28     *** Warning ***  current system memory usage reached 85%
+
+11/Nov/2022 15:32:04     *** Warning ***  current system memory usage reached 90%
+
+11/Nov/2022 15:58:34     *** Warning ***  current system memory usage reached 90%
+
+12/Nov/2022 17:02:14     *** Warning ***  current system memory usage reached 85%
+
+12/Nov/2022 17:51:27     *** Warning ***  current system memory usage reached 85%
+
+12/Nov/2022 17:51:25     *** Warning ***  current system memory usage reached 85%
+
+12/Nov/2022 19:45:15     *** Warning ***  current system memory usage reached 85%
+
+12/Nov/2022 23:22:13     *** Warning ***  current system memory usage reached 90%
+
+12/Nov/2022 23:22:41     *** Warning ***  current system memory usage reached 90%
+
+13/Nov/2022 00:04:53     *** Warning ***  current system memory usage reached 90%
+
+13/Nov/2022 00:04:54     *** Warning ***  current system memory usage reached 90%
+
+15/Nov/2022 11:50:38     *** Warning ***  current system memory usage reached 90%
+
+15/Nov/2022 11:50:47     *** Warning ***  current system memory usage reached 95%
+
+15/Nov/2022 11:50:45     *** Warning ***  current system memory usage reached 95%
+
+
+15/Nov/2022 11:51:16  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 11:51:16  Using electric shielding for port 1, 2.
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 11:51:17  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: electric
+                        Xmax: electric
+                      
+                        Ymin: electric
+                        Ymax: expanded open, 4 Layer, depth 33.6985 mm
+                      
+                        Zmin: expanded open, 4 Layer, depth 30.5134 mm
+                        Zmax: expanded open, 4 Layer, depth 30.5134 mm
+                      
+                        PML-Type: Convolution PML
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 11:51:17  Frequency settings: 
+                      
+                        Fmin:         1
+                        Fmax:         4
+                        Nfsteps(lin): 1001
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 11:51:17  Waveguide boundaries:
+                      
+15/Nov/2022 11:51:17  Port: 1
+                      
+15/Nov/2022 11:51:17    -------------------------------- F-Calc 2.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        1      1      TEM         265           0.143         54.3          0.0
+                        ----------------------------------------------------------------------------
+                      
+15/Nov/2022 11:51:17  Port: 2
+                      
+15/Nov/2022 11:51:17    -------------------------------- F-Calc 2.5 --------------------------------
+                        Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
+                        2      1      TEM         265           0.143         54.3          0.0
+                        ----------------------------------------------------------------------------
+                      
+15/Nov/2022 11:51:17  Number of time steps considered by the port signal processing was limited to 1048577 for port 1.
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 11:51:17  Number of time steps considered by the port signal processing was limited to 1048577 for port 2.
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 11:51:18  Field update statistics:
+                      
+                        Number of components in total: 	1061396
+                        Number of TST elements:		112
+                        Number of lossy metal components:	37954
+                        Number of disp. elements:		6814
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 13:21:06  
+                      --------------------------------------------------------------------------------
+15/Nov/2022 13:21:06  Steady state energy criterion met, solver finished successfully.
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 13:21:06  Frequency domain results normalized to default signal.
+                      
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 13:21:06  
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        Matrices calc.      538085                        5173828      575195       
+                        Solver run total    104708                        1122672      594456       
+                        ----------------------------------------------------------------------------
+                      
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+                      
+                        Hardware:
+                           Computer name:                 	elecpc375 
+                      
+                           Number of CPU threads:               2
+                           Hardware info:                  	Hardware Accelerator Device not activated
+                      
+                        Number of mesh cells:             	172000
+                        Excitation duration:              	2.36969917e+000 ns 
+                        Calculation time for excitation:  	5 	s
+                        Number of calculated pulse widths:	1180.71 
+                        Steady state accuracy limit:      	-60	dB 
+                        Simulated number of time steps:   	1369160 
+                        Maximum number of time steps:     	4893458 
+                        Time step width:
+                           without subcycles:             	2.04354427e-003 ns
+                           used:                          	2.04354427e-003 ns
+                      
+                        Matrix calculation time:          	39 	s
+                        Solver setup time:                	3 	s
+                        Solver loop time:                 	5378 	s
+                        Solver post processing time:      	8 	s
+                                                          	------------
+                        Total solver time:                	5428 	s  ( = 1 h, 30 m, 28 s )
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 13:21:06  
+                        Adaptive port meshing time:          	42     	s
+                        Total solver time (all cycles):      	5428   	s  ( = 1 h, 30 m, 28 s )
+                        solver initialization and clean-up:  	2      	s
+                                                             	------------
+                        Total simulation time:               	5472   	s  ( = 1 h, 31 m, 12 s )
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 13:21:07  Solver finished at: 01:21 PM Tuesday, 15. November 2022
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+15/Nov/2022 13:21:16  Creating parametric 1D results for Run ID 2
+                      
+                      ------------------------------------------------------------------------------
